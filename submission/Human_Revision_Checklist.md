@@ -5,7 +5,7 @@
 - Confirm the description of Filzen et al. against the published article.
 - Confirm all references, spelling, author names, years, volumes, pages, and DOIs.
 - Decide whether every listed AI tool was materially used and revise the journal-specific disclosure if required.
-- Add the final public repository URL, release tag, and archival DOI.
+- Confirm that the public repository, version 1.0.0 release tag, and DOI 10.5281/zenodo.22956320 resolve correctly.
 - Confirm that no private path, credential, or unpublished personal information appears in the package.
 - Re-check the target journal's scope, author instructions, AI policy, and subscription publication fee immediately before submission.
 - Obtain any required ethics, authorship, conflict, and data-licence declarations.

@@ -165,7 +165,7 @@ Source data are publicly available from NCBI GEO under accessions GSE92742 and G
 
 ## Code availability
 
-Analysis scripts, frozen contracts, environment specifications, model checkpoints, compact derived signatures, result tables, and artifact hashes accompany this manuscript. A public repository URL and archival DOI should be inserted after repository publication.
+Analysis scripts, frozen contracts, environment specifications, model checkpoints, compact derived signatures, result tables, and artifact hashes are available at https://github.com/MarkBarsoumMarkarian/LINCS-replicate-supervision. The version 1.0.0 archival release is identified by DOI: https://doi.org/10.5281/zenodo.22956320.
 
 ## Funding
 
