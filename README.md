@@ -49,7 +49,7 @@ The large source GCTX matrices are not redistributed. Compact derived signatures
 
 ## Citation
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The version 1.0.0 archival release has the reserved DOI [10.5281/zenodo.22956320](https://doi.org/10.5281/zenodo.22956320), which will resolve after the Zenodo record is published.
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The version 1.0.0 archival release is available at [10.5281/zenodo.22956320](https://doi.org/10.5281/zenodo.22956320).
 
 ## License
 
