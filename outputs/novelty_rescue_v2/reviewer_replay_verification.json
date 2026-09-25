@@ -1,0 +1,20 @@
+{
+  "status": "post-freeze sensitivity replay",
+  "reference_files": 2,
+  "byte_exact_files": 2,
+  "all_reviewer_response_artifacts_byte_exact": true,
+  "records": [
+    {
+      "file": "reviewer_schedule_audit.csv",
+      "reference_sha256": "4c94ef9ef4daefed844469386d91fc13338bf816338572d617803af35633e92c",
+      "replay_sha256": "4c94ef9ef4daefed844469386d91fc13338bf816338572d617803af35633e92c",
+      "byte_exact": true
+    },
+    {
+      "file": "reviewer_response_results.json",
+      "reference_sha256": "f71aeaef0888c0e1e9d3c2ff83fbf0bfbc43c9fec0add61415872ebed9605af8",
+      "replay_sha256": "f71aeaef0888c0e1e9d3c2ff83fbf0bfbc43c9fec0add61415872ebed9605af8",
+      "byte_exact": true
+    }
+  ]
+}

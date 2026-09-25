@@ -1,0 +1,5 @@
+- Shrinkage LDA outperformed neural metric learning under frozen LINCS transfer.
+- The MCF7 trained representation generalized to five new Phase II cell lines.
+- Unseen compounds retrieved shared mechanisms and protein targets above chance.
+- Reproducible discriminative structure had an effective dimension near 27.
+- Shrinkage LDA remained first after longer-schedule neural sensitivity fits.

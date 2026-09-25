@@ -1,0 +1,40 @@
+{
+  "contract": "EXTERNAL_VALIDATION_CONTRACT.md",
+  "primary_cohort": {
+    "dataset": "GSE70138",
+    "cell_line": "MCF7",
+    "dose_micromolar": 10,
+    "time_hours": 24,
+    "minimum_plates": 6,
+    "phase1_unseen_compounds": 81,
+    "profiles": 569
+  },
+  "selected_method": "contrastive_lda_ensemble",
+  "selected_map": 0.3930613470230112,
+  "selected_nearest_neighbor_accuracy": 0.5325131810193322,
+  "selected_top5_hit_rate": 0.8031634446397188,
+  "selected_pair_auroc": 0.8644630708750447,
+  "best_nonlearned_baseline": "ssgsea_hallmark",
+  "best_baseline_map": 0.281774337106694,
+  "map_improvement": 0.11128700991631722,
+  "map_improvement_bootstrap_95_interval": [
+    0.0749477065358578,
+    0.1499309738649403
+  ],
+  "strongest_external_method": "shrinkage_lda",
+  "shrinkage_lda_map": 0.44462679553710033,
+  "shrinkage_lda_improvement_over_best_baseline": 0.16285245843040635,
+  "shrinkage_lda_improvement_bootstrap_95_interval": [
+    0.12435492639638289,
+    0.2033155371765612
+  ],
+  "bootstrap_draws": 2000,
+  "permutation_null_map_mean": 0.02312938896724523,
+  "permutation_null_map_95_interval": [
+    0.020797467314050078,
+    0.025910312547111635
+  ],
+  "permutation_pvalue_one_sided": 0.004975124378109453,
+  "external_endpoint": "PASS",
+  "interpretation_boundary": "external perturbation-identity retrieval across LINCS phases and a time-point shift; not mechanism or clinical equivalence"
+}

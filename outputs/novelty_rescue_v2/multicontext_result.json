@@ -1,0 +1,27 @@
+{
+  "training_context": "GSE92742 MCF7 10 micromolar 6 hours",
+  "external_contexts": [
+    "A375",
+    "A549",
+    "HA1E",
+    "HT29",
+    "PC3"
+  ],
+  "external_compounds_by_context": {
+    "A375": 70,
+    "A549": 102,
+    "HA1E": 78,
+    "HT29": 77,
+    "PC3": 63
+  },
+  "model_refitting_on_phase2": false,
+  "macro_map_improvement_over_contextwise_strongest_nonlearned": 0.06551211356329141,
+  "stratified_compound_bootstrap_95_interval": [
+    0.048483356509718654,
+    0.083126555275934
+  ],
+  "positive_contexts": 5,
+  "required_positive_contexts": 4,
+  "bootstrap_draws": 2000,
+  "multicontext_endpoint": "PASS"
+}

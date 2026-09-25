@@ -1,0 +1,5 @@
+During preparation of this work, the author used OpenAI Codex, ChatGPT,
+Anthropic Claude, and Google Gemini to assist with code drafting, workflow
+critique, literature discovery, and manuscript language. The author reviewed
+the generated material, inspected the analysis outputs, revised the text, and
+takes full responsibility for the manuscript.

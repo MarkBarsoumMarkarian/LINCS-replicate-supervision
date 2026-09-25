@@ -1,0 +1,8 @@
+{
+  "selected_method": "contrastive_lda_ensemble",
+  "selection_metric": "validation mean average precision",
+  "selected_validation_map": 0.2191780605941821,
+  "neural_best_epoch": 15,
+  "neural_best_validation_map": 0.18540036227298537,
+  "test_opened_during_selection": false
+}

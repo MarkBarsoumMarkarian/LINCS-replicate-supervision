@@ -1,0 +1,11 @@
+{
+  "expression_opened": false,
+  "selection_uses_activity_or_mechanism": false,
+  "split_counts": {
+    "test": 34,
+    "train": 100,
+    "validation": 34
+  },
+  "previously_exposed_forced_to_train": 16,
+  "split_sha256": "dea6ca5c216d62e8436e3d3bd131002ceb7389bcffbab0c8816acfe727c61d35"
+}

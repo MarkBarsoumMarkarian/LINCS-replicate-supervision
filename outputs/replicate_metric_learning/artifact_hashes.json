@@ -1,0 +1,7 @@
+{
+  "compound_split.csv": "dea6ca5c216d62e8436e3d3bd131002ceb7389bcffbab0c8816acfe727c61d35",
+  "model_selection.json": "67f37aabdb3f12fd2144f42f369af009587dcdda5ddce6b29f88c759dfbeae72",
+  "test_metrics.csv": "56c1652405d4f0c767b9b4a9bfe019114f1636c44da7454909d55875f414671d",
+  "benchmark_result.json": "c0642dc5fb2ae73c43194725166719ccc8a035ebc83379dfa96cb4c23056a2ce",
+  "contrastive_encoder.pt": "fcde910512ac216eddcb6103a8411241f6e9227eca3dcbdcc745d03f17ff9ed7"
+}

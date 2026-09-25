@@ -1,0 +1,28 @@
+{
+  "source": "Phase I training compounds only",
+  "training_compounds": 100,
+  "training_profiles": 1820,
+  "features": 978,
+  "within_covariance_estimator": "Ledoit-Wolf on within-compound residuals",
+  "within_covariance_shrinkage": 0.011853375715733095,
+  "positive_generalized_directions": 99,
+  "directions_with_eigenvalue_gt_1": 70,
+  "participation_ratio_effective_dimension": 27.094516233514067,
+  "cumulative_discriminative_mass": {
+    "top_8": 0.45901506400241093,
+    "top_16": 0.5993976210588436,
+    "top_32": 0.7398047374206603
+  },
+  "largest_generalized_eigenvalues": [
+    32.90365391919494,
+    23.010305148299185,
+    20.64613792392124,
+    16.409039668103237,
+    13.484924086535752,
+    11.061014714639104,
+    9.837060297010508,
+    7.888766601130699,
+    7.110740875886686,
+    6.571054991342644
+  ]
+}

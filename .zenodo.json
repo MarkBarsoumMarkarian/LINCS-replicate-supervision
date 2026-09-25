@@ -1,0 +1,25 @@
+{
+  "title": "LINCS replicate supervision benchmark",
+  "description": "Reproducible code, frozen contracts, compact derived signatures, model checkpoints, result tables, figures, and manuscript files for a compound-disjoint LINCS L1000 benchmark of replicate-supervised representations. The study compares shrinkage linear discriminant analysis with neural and non-learned alternatives across LINCS phases, five additional cell lines, and mechanism and target retrieval among unseen compounds.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Markarian, Mark Barsoum",
+      "affiliation": "Independent Researcher, Beirut, Lebanon",
+      "orcid": "0009-0006-1240-9534"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "publication_date": "2026-09-25",
+  "keywords": [
+    "LINCS",
+    "L1000",
+    "perturbational transcriptomics",
+    "replicate supervision",
+    "shrinkage LDA",
+    "metric learning",
+    "mechanism of action"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "input_profiles": 5157,
+  "genes": 978,
+  "output_plate_signatures": 2755,
+  "output_compounds": 168,
+  "output_plates": 123,
+  "plates_without_vehicle": [],
+  "vehicle_wells_per_plate": {
+    "minimum": 8,
+    "median": 12.0,
+    "maximum": 35
+  },
+  "development_counts": [
+    {
+      "pert_id": "BRD-A19037878",
+      "pert_iname": "trichostatin-a",
+      "n_plates": 105,
+      "n_treatment_wells": 139
+    },
+    {
+      "pert_id": "BRD-A19500257",
+      "pert_iname": "geldanamycin",
+      "n_plates": 111,
+      "n_treatment_wells": 126
+    },
+    {
+      "pert_id": "BRD-A75409952",
+      "pert_iname": "wortmannin",
+      "n_plates": 110,
+      "n_treatment_wells": 125
+    },
+    {
+      "pert_id": "BRD-K81418486",
+      "pert_iname": "vorinostat",
+      "n_plates": 112,
+      "n_treatment_wells": 151
+    }
+  ],
+  "pairwise_outcomes_calculated": false,
+  "representation": "plate mean log2 treatment minus same-plate vehicle median"
+}

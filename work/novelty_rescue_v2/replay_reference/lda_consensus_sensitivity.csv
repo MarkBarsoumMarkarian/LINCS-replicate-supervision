@@ -1,0 +1,3 @@
+cohort,method,mean_reciprocal_rank,top1_accuracy,top5_hit_rate,queries,compounds
+phase1_test,shrinkage_lda_mean_consensus,0.42029875578990383,0.2926315789473684,0.5515789473684211,475,34
+phase2_mcf7,shrinkage_lda_mean_consensus,0.7355844327640196,0.6309314586994728,0.8699472759226714,569,81

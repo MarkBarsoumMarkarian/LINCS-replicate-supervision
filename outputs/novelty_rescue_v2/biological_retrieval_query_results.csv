@@ -1,0 +1,969 @@
+pert_id,average_precision,top1_correct,top5_hit,relevant_compounds,eligible_annotations,label,method
+BRD-K02113016,0.5136986301369864,1.0,1.0,2,parp inhibitor,moa,raw_cosine
+BRD-K02123250,0.08758398464280819,0.0,0.0,3,tyrosine kinase inhibitor,moa,raw_cosine
+BRD-K03449891,0.14255744433365103,0.0,0.0,9,vegfr inhibitor,moa,raw_cosine
+BRD-K05804044,0.09561035824023587,0.0,1.0,4,raf inhibitor,moa,raw_cosine
+BRD-K07691486,0.05585255239180744,0.0,0.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K08799216,0.32426625386184205,1.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K09951645,0.06683415268941584,0.0,0.0,4,raf inhibitor,moa,raw_cosine
+BRD-K11153516,0.022642390289449112,0.0,0.0,2,parp inhibitor,moa,raw_cosine
+BRD-K12184916,0.7299450549450549,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,raw_cosine
+BRD-K13390322,0.6721626733921816,1.0,1.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K13662825,0.7022533022533022,1.0,1.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K16730910,0.39671861107267375,1.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K17743125,1.0,1.0,1.0,2,hdac inhibitor,moa,raw_cosine
+BRD-K19477839,1.0,1.0,1.0,1,hepatocyte growth factor receptor inhibitor,moa,raw_cosine
+BRD-K19687926,0.23203289570112012,0.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K21718444,0.16930960254570412,0.0,1.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,raw_cosine
+BRD-K23984367,0.2596979560360369,0.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K28392481,0.06620553359683795,0.0,0.0,2,fgfr inhibitor,moa,raw_cosine
+BRD-K33379087,0.04563492063492063,0.0,0.0,3,tyrosine kinase inhibitor,moa,raw_cosine
+BRD-K36740062,0.05133928571428571,0.0,0.0,2,aurora kinase inhibitor,moa,raw_cosine
+BRD-K37687095,0.5588235294117647,1.0,1.0,2,mek inhibitor,moa,raw_cosine
+BRD-K40175214,0.625,1.0,1.0,3,mtor inhibitor,moa,raw_cosine
+BRD-K40738845,0.15142588892588893,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,raw_cosine
+BRD-K42191735,0.28525641025641024,0.0,1.0,4,pi3k inhibitor,moa,raw_cosine
+BRD-K42805893,0.1331969739000266,0.0,0.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K49075727,0.28249278106694536,1.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K49328571,0.19807888122260012,0.0,0.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,raw_cosine
+BRD-K49865102,0.26666666666666666,0.0,1.0,2,mek inhibitor,moa,raw_cosine
+BRD-K50168500,0.2755993905450427,1.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K51313569,0.11578853046594982,0.0,0.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K51544265,0.23067293102393122,0.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K52911425,0.3296099290780142,0.0,1.0,4,pi3k inhibitor,moa,raw_cosine
+BRD-K53414658,0.17470948843378176,0.0,1.0,9,vegfr inhibitor,moa,raw_cosine
+BRD-K57080016,1.0,1.0,1.0,2,mek inhibitor,moa,raw_cosine
+BRD-K57169635,0.3589410270444753,1.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K59317601,0.6143790849673202,1.0,1.0,3,mtor inhibitor,moa,raw_cosine
+BRD-K60866521,0.11642455762792922,0.0,0.0,4,pi3k inhibitor,moa,raw_cosine
+BRD-K64800655,0.5649782135076252,0.0,1.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K66538826,0.2658245957205785,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,raw_cosine
+BRD-K67868012,0.5257557189542483,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,raw_cosine
+BRD-K70401845,0.17840303230389595,0.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K70511574,0.1,0.0,0.0,1,plk inhibitor,moa,raw_cosine
+BRD-K71035033,0.21231708928870519,0.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,raw_cosine
+BRD-K72414522,0.5524087024087023,1.0,1.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K74514084,0.37993663586183296,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K76908866,0.14278225570670391,0.0,0.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K77625799,0.3078217129480111,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K77908580,0.7,1.0,1.0,2,hdac inhibitor,moa,raw_cosine
+BRD-K79090631,0.5242063492063492,1.0,1.0,6,cdk inhibitor,moa,raw_cosine
+BRD-K81528515,0.043608025960967134,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,raw_cosine
+BRD-K82928847,1.0,1.0,1.0,2,hdac inhibitor,moa,raw_cosine
+BRD-K83963101,0.034355179704016914,0.0,0.0,2,aurora kinase inhibitor,moa,raw_cosine
+BRD-K85606544,0.3104079131652661,0.0,1.0,8,egfr inhibitor,moa,raw_cosine
+BRD-K87142802,0.1138888888888889,0.0,1.0,2,parp inhibitor,moa,raw_cosine
+BRD-K92428232,0.03571428571428571,0.0,0.0,1,plk inhibitor,moa,raw_cosine
+BRD-K93123848,0.34729519976808887,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K93918653,0.10892448512585812,0.0,0.0,4,flt3 inhibitor,moa,raw_cosine
+BRD-K99749624,0.14811515156551516,0.0,1.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,raw_cosine
+BRD-K99964838,0.13471292234279997,0.0,1.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,raw_cosine
+BRD-K02113016,0.2636986301369863,0.0,1.0,2,parp inhibitor,moa,pca_64
+BRD-K02123250,0.07426438296003514,0.0,0.0,3,tyrosine kinase inhibitor,moa,pca_64
+BRD-K03449891,0.14438527216304994,0.0,0.0,9,vegfr inhibitor,moa,pca_64
+BRD-K05804044,0.09388996459934675,0.0,0.0,4,raf inhibitor,moa,pca_64
+BRD-K07691486,0.05539240846971232,0.0,0.0,6,cdk inhibitor,moa,pca_64
+BRD-K08799216,0.17069203485758958,0.0,1.0,8,egfr inhibitor,moa,pca_64
+BRD-K09951645,0.06306818181818181,0.0,0.0,4,raf inhibitor,moa,pca_64
+BRD-K11153516,0.02332112332112332,0.0,0.0,2,parp inhibitor,moa,pca_64
+BRD-K12184916,0.6890640640640641,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,pca_64
+BRD-K13390322,0.6798941798941799,1.0,1.0,6,cdk inhibitor,moa,pca_64
+BRD-K13662825,0.6911549707602339,1.0,1.0,6,cdk inhibitor,moa,pca_64
+BRD-K16730910,0.3322091210068615,0.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K17743125,0.8333333333333333,1.0,1.0,2,hdac inhibitor,moa,pca_64
+BRD-K19477839,0.5,0.0,1.0,1,hepatocyte growth factor receptor inhibitor,moa,pca_64
+BRD-K19687926,0.2512151879324555,1.0,1.0,8,egfr inhibitor,moa,pca_64
+BRD-K21718444,0.1319945058126058,0.0,0.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,pca_64
+BRD-K23984367,0.23461831311136624,0.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K28392481,0.11309523809523808,0.0,0.0,2,fgfr inhibitor,moa,pca_64
+BRD-K33379087,0.0630426125049781,0.0,0.0,3,tyrosine kinase inhibitor,moa,pca_64
+BRD-K36740062,0.04060150375939849,0.0,0.0,2,aurora kinase inhibitor,moa,pca_64
+BRD-K37687095,0.06274509803921569,0.0,0.0,2,mek inhibitor,moa,pca_64
+BRD-K40175214,0.6805555555555555,1.0,1.0,3,mtor inhibitor,moa,pca_64
+BRD-K40738845,0.16047961246691803,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,pca_64
+BRD-K42191735,0.37749615975422424,0.0,1.0,4,pi3k inhibitor,moa,pca_64
+BRD-K42805893,0.1580705925781165,0.0,1.0,8,egfr inhibitor,moa,pca_64
+BRD-K49075727,0.23369233961355704,0.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K49328571,0.17154913737272529,0.0,0.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,pca_64
+BRD-K49865102,0.05654761904761904,0.0,0.0,2,mek inhibitor,moa,pca_64
+BRD-K50168500,0.15471240242315826,0.0,0.0,8,egfr inhibitor,moa,pca_64
+BRD-K51313569,0.198645683020683,0.0,0.0,6,cdk inhibitor,moa,pca_64
+BRD-K51544265,0.21866544799348922,0.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K52911425,0.19318181818181818,0.0,1.0,4,pi3k inhibitor,moa,pca_64
+BRD-K53414658,0.2845374297760402,1.0,1.0,9,vegfr inhibitor,moa,pca_64
+BRD-K57080016,0.375,0.0,1.0,2,mek inhibitor,moa,pca_64
+BRD-K57169635,0.17499960903032935,0.0,0.0,8,egfr inhibitor,moa,pca_64
+BRD-K59317601,0.7291666666666666,1.0,1.0,3,mtor inhibitor,moa,pca_64
+BRD-K60866521,0.12568164362519202,0.0,0.0,4,pi3k inhibitor,moa,pca_64
+BRD-K64800655,0.5547222222222222,0.0,1.0,6,cdk inhibitor,moa,pca_64
+BRD-K66538826,0.2696927814439159,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,pca_64
+BRD-K67868012,0.37468166753881044,0.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,pca_64
+BRD-K70401845,0.2579354346970889,0.0,1.0,8,egfr inhibitor,moa,pca_64
+BRD-K70511574,0.05555555555555555,0.0,0.0,1,plk inhibitor,moa,pca_64
+BRD-K71035033,0.20099610648455188,0.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,pca_64
+BRD-K72414522,0.5780939476061427,1.0,1.0,6,cdk inhibitor,moa,pca_64
+BRD-K74514084,0.2673482846974226,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K76908866,0.15697826849708976,0.0,0.0,8,egfr inhibitor,moa,pca_64
+BRD-K77625799,0.31050273791233574,1.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K77908580,0.5909090909090909,1.0,1.0,2,hdac inhibitor,moa,pca_64
+BRD-K79090631,0.5278206778206779,1.0,1.0,6,cdk inhibitor,moa,pca_64
+BRD-K81528515,0.04045258620689655,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,pca_64
+BRD-K82928847,1.0,1.0,1.0,2,hdac inhibitor,moa,pca_64
+BRD-K83963101,0.028438886647841874,0.0,0.0,2,aurora kinase inhibitor,moa,pca_64
+BRD-K85606544,0.1932791312898765,0.0,1.0,8,egfr inhibitor,moa,pca_64
+BRD-K87142802,0.1138888888888889,0.0,1.0,2,parp inhibitor,moa,pca_64
+BRD-K92428232,0.03125,0.0,0.0,1,plk inhibitor,moa,pca_64
+BRD-K93123848,0.19151051383875214,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K93918653,0.159767316017316,0.0,0.0,4,flt3 inhibitor,moa,pca_64
+BRD-K99749624,0.18603304352300784,0.0,1.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,pca_64
+BRD-K99964838,0.09474993453783713,0.0,1.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,pca_64
+BRD-K02113016,0.5136986301369864,1.0,1.0,2,parp inhibitor,moa,limma_weighted
+BRD-K02123250,0.08758398464280819,0.0,0.0,3,tyrosine kinase inhibitor,moa,limma_weighted
+BRD-K03449891,0.14356650238292748,0.0,0.0,9,vegfr inhibitor,moa,limma_weighted
+BRD-K05804044,0.12803313308765377,0.0,1.0,4,raf inhibitor,moa,limma_weighted
+BRD-K07691486,0.05517219894961756,0.0,0.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K08799216,0.3609962348128266,1.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K09951645,0.06683415268941584,0.0,0.0,4,raf inhibitor,moa,limma_weighted
+BRD-K11153516,0.022770398481973434,0.0,0.0,2,parp inhibitor,moa,limma_weighted
+BRD-K12184916,0.7299450549450549,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,limma_weighted
+BRD-K13390322,0.6724358974358974,1.0,1.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K13662825,0.7022533022533022,1.0,1.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K16730910,0.4165771946604849,1.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K17743125,1.0,1.0,1.0,2,hdac inhibitor,moa,limma_weighted
+BRD-K19477839,1.0,1.0,1.0,1,hepatocyte growth factor receptor inhibitor,moa,limma_weighted
+BRD-K19687926,0.2960458517230963,1.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K21718444,0.17138176420935178,0.0,1.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,limma_weighted
+BRD-K23984367,0.2927168955556634,0.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K28392481,0.06272727272727273,0.0,0.0,2,fgfr inhibitor,moa,limma_weighted
+BRD-K33379087,0.05047760210803689,0.0,0.0,3,tyrosine kinase inhibitor,moa,limma_weighted
+BRD-K36740062,0.04895833333333333,0.0,0.0,2,aurora kinase inhibitor,moa,limma_weighted
+BRD-K37687095,0.5714285714285714,1.0,1.0,2,mek inhibitor,moa,limma_weighted
+BRD-K40175214,0.6805555555555555,1.0,1.0,3,mtor inhibitor,moa,limma_weighted
+BRD-K40738845,0.15420137867008382,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,limma_weighted
+BRD-K42191735,0.28525641025641024,0.0,1.0,4,pi3k inhibitor,moa,limma_weighted
+BRD-K42805893,0.1286695867538259,0.0,0.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K49075727,0.28626169849409333,1.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K49328571,0.20072397828526686,0.0,0.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,limma_weighted
+BRD-K49865102,0.3611111111111111,0.0,1.0,2,mek inhibitor,moa,limma_weighted
+BRD-K50168500,0.19094275503658353,0.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K51313569,0.11738436593275302,0.0,0.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K51544265,0.23424445120097293,0.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K52911425,0.33007246376811594,0.0,1.0,4,pi3k inhibitor,moa,limma_weighted
+BRD-K53414658,0.1825891965029703,0.0,1.0,9,vegfr inhibitor,moa,limma_weighted
+BRD-K57080016,1.0,1.0,1.0,2,mek inhibitor,moa,limma_weighted
+BRD-K57169635,0.4029465694323706,1.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K59317601,0.5666666666666667,1.0,1.0,3,mtor inhibitor,moa,limma_weighted
+BRD-K60866521,0.11100091199270405,0.0,0.0,4,pi3k inhibitor,moa,limma_weighted
+BRD-K64800655,0.5653703703703704,0.0,1.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K66538826,0.27523827629846054,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,limma_weighted
+BRD-K67868012,0.5260037348272643,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,limma_weighted
+BRD-K70401845,0.18717629264281885,0.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K70511574,0.1,0.0,0.0,1,plk inhibitor,moa,limma_weighted
+BRD-K71035033,0.22650406610932924,0.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,limma_weighted
+BRD-K72414522,0.5666132478632478,1.0,1.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K74514084,0.41446314956501723,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K76908866,0.14792379046319815,0.0,0.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K77625799,0.30861566312071875,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K77908580,0.8333333333333333,1.0,1.0,2,hdac inhibitor,moa,limma_weighted
+BRD-K79090631,0.5234654234654235,1.0,1.0,6,cdk inhibitor,moa,limma_weighted
+BRD-K81528515,0.04269788182831661,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,limma_weighted
+BRD-K82928847,1.0,1.0,1.0,2,hdac inhibitor,moa,limma_weighted
+BRD-K83963101,0.03318135764944276,0.0,0.0,2,aurora kinase inhibitor,moa,limma_weighted
+BRD-K85606544,0.3317931049928332,0.0,1.0,8,egfr inhibitor,moa,limma_weighted
+BRD-K87142802,0.1138888888888889,0.0,1.0,2,parp inhibitor,moa,limma_weighted
+BRD-K92428232,0.03571428571428571,0.0,0.0,1,plk inhibitor,moa,limma_weighted
+BRD-K93123848,0.32899668527485165,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K93918653,0.1141559829059829,0.0,0.0,4,flt3 inhibitor,moa,limma_weighted
+BRD-K99749624,0.14900958355361546,0.0,1.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,limma_weighted
+BRD-K99964838,0.1379074825601443,0.0,1.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,limma_weighted
+BRD-K02113016,0.04318181818181818,0.0,0.0,2,parp inhibitor,moa,replicate_contrastive
+BRD-K02123250,0.10067340067340068,0.0,0.0,3,tyrosine kinase inhibitor,moa,replicate_contrastive
+BRD-K03449891,0.20020675841571361,0.0,1.0,9,vegfr inhibitor,moa,replicate_contrastive
+BRD-K05804044,0.06035980148883375,0.0,0.0,4,raf inhibitor,moa,replicate_contrastive
+BRD-K07691486,0.10857136177507905,0.0,0.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K08799216,0.29734105763517527,1.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K09951645,0.04741274006168572,0.0,0.0,4,raf inhibitor,moa,replicate_contrastive
+BRD-K11153516,0.026753074111000332,0.0,0.0,2,parp inhibitor,moa,replicate_contrastive
+BRD-K12184916,0.7208333333333333,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,replicate_contrastive
+BRD-K13390322,0.6830938697318008,1.0,1.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K13662825,0.43080040526849034,0.0,1.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K16730910,0.3275816405078618,0.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K17743125,0.5833333333333333,0.0,1.0,2,hdac inhibitor,moa,replicate_contrastive
+BRD-K19477839,0.027777777777777776,0.0,0.0,1,hepatocyte growth factor receptor inhibitor,moa,replicate_contrastive
+BRD-K19687926,0.13337588813656748,0.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K21718444,0.14737108497080056,0.0,0.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,replicate_contrastive
+BRD-K23984367,0.44729479395268185,1.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K28392481,0.06274131274131274,0.0,0.0,2,fgfr inhibitor,moa,replicate_contrastive
+BRD-K33379087,0.042628010524185384,0.0,0.0,3,tyrosine kinase inhibitor,moa,replicate_contrastive
+BRD-K36740062,0.125,0.0,0.0,2,aurora kinase inhibitor,moa,replicate_contrastive
+BRD-K37687095,1.0,1.0,1.0,2,mek inhibitor,moa,replicate_contrastive
+BRD-K40175214,0.43236714975845403,0.0,1.0,3,mtor inhibitor,moa,replicate_contrastive
+BRD-K40738845,0.15111932317814672,0.0,1.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,replicate_contrastive
+BRD-K42191735,0.32259358288770057,0.0,1.0,4,pi3k inhibitor,moa,replicate_contrastive
+BRD-K42805893,0.14396158314034901,0.0,0.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K49075727,0.2599234826829729,0.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K49328571,0.24771807901912288,1.0,1.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,replicate_contrastive
+BRD-K49865102,1.0,1.0,1.0,2,mek inhibitor,moa,replicate_contrastive
+BRD-K50168500,0.19073270951673854,0.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K51313569,0.09240218277694869,0.0,0.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K51544265,0.185276486780522,0.0,0.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K52911425,0.4018412242945959,1.0,1.0,4,pi3k inhibitor,moa,replicate_contrastive
+BRD-K53414658,0.26434804533945827,0.0,1.0,9,vegfr inhibitor,moa,replicate_contrastive
+BRD-K57080016,1.0,1.0,1.0,2,mek inhibitor,moa,replicate_contrastive
+BRD-K57169635,0.2261463714762234,0.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K59317601,0.6555555555555556,1.0,1.0,3,mtor inhibitor,moa,replicate_contrastive
+BRD-K60866521,0.6007326007326006,1.0,1.0,4,pi3k inhibitor,moa,replicate_contrastive
+BRD-K64800655,0.4464714714714714,0.0,1.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K66538826,0.36628950926958176,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,replicate_contrastive
+BRD-K67868012,0.875,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,replicate_contrastive
+BRD-K70401845,0.12129669026459906,0.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K70511574,0.07142857142857142,0.0,0.0,1,plk inhibitor,moa,replicate_contrastive
+BRD-K71035033,0.33616077972730185,1.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,replicate_contrastive
+BRD-K72414522,0.6876780626780628,1.0,1.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K74514084,0.389966460528939,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K76908866,0.10258411141398732,0.0,0.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K77625799,0.33296383766859483,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K77908580,0.75,1.0,1.0,2,hdac inhibitor,moa,replicate_contrastive
+BRD-K79090631,0.6388888888888888,1.0,1.0,6,cdk inhibitor,moa,replicate_contrastive
+BRD-K81528515,0.03873439624273885,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,replicate_contrastive
+BRD-K82928847,0.8333333333333333,1.0,1.0,2,hdac inhibitor,moa,replicate_contrastive
+BRD-K83963101,0.05846153846153847,0.0,0.0,2,aurora kinase inhibitor,moa,replicate_contrastive
+BRD-K85606544,0.3048727330461076,1.0,1.0,8,egfr inhibitor,moa,replicate_contrastive
+BRD-K87142802,0.12037037037037036,0.0,0.0,2,parp inhibitor,moa,replicate_contrastive
+BRD-K92428232,0.023255813953488372,0.0,0.0,1,plk inhibitor,moa,replicate_contrastive
+BRD-K93123848,0.12323196675081895,0.0,0.0,11,raf inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K93918653,0.2498706004140787,0.0,1.0,4,flt3 inhibitor,moa,replicate_contrastive
+BRD-K99749624,0.14464750505772178,0.0,0.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,replicate_contrastive
+BRD-K99964838,0.35224618149146447,1.0,1.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,replicate_contrastive
+BRD-K02113016,0.0768321513002364,0.0,0.0,2,parp inhibitor,moa,shrinkage_lda
+BRD-K02123250,0.0914027149321267,0.0,0.0,3,tyrosine kinase inhibitor,moa,shrinkage_lda
+BRD-K03449891,0.17181436257999672,0.0,1.0,9,vegfr inhibitor,moa,shrinkage_lda
+BRD-K05804044,0.1822968697968698,0.0,1.0,4,raf inhibitor,moa,shrinkage_lda
+BRD-K07691486,0.15884915737856917,0.0,0.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K08799216,0.5085475768321513,1.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K09951645,0.04755205227588948,0.0,0.0,4,raf inhibitor,moa,shrinkage_lda
+BRD-K11153516,0.10263157894736842,0.0,0.0,2,parp inhibitor,moa,shrinkage_lda
+BRD-K12184916,0.8680555555555555,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,shrinkage_lda
+BRD-K13390322,0.8263888888888888,1.0,1.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K13662825,0.762037037037037,1.0,1.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K16730910,0.48907910682753575,1.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K17743125,1.0,1.0,1.0,2,hdac inhibitor,moa,shrinkage_lda
+BRD-K19477839,0.0625,0.0,0.0,1,hepatocyte growth factor receptor inhibitor,moa,shrinkage_lda
+BRD-K19687926,0.15458061844884932,0.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K21718444,0.16484933548733433,0.0,1.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,shrinkage_lda
+BRD-K23984367,0.542057754457212,1.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K28392481,0.04957160342717258,0.0,0.0,2,fgfr inhibitor,moa,shrinkage_lda
+BRD-K33379087,0.05326858534557011,0.0,0.0,3,tyrosine kinase inhibitor,moa,shrinkage_lda
+BRD-K36740062,0.15555555555555556,0.0,1.0,2,aurora kinase inhibitor,moa,shrinkage_lda
+BRD-K37687095,1.0,1.0,1.0,2,mek inhibitor,moa,shrinkage_lda
+BRD-K40175214,0.7916666666666666,1.0,1.0,3,mtor inhibitor,moa,shrinkage_lda
+BRD-K40738845,0.1419465746671629,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,shrinkage_lda
+BRD-K42191735,0.5845238095238094,0.0,1.0,4,pi3k inhibitor,moa,shrinkage_lda
+BRD-K42805893,0.11410510564737414,0.0,0.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K49075727,0.371965671666381,1.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K49328571,0.18000212489825285,0.0,1.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,shrinkage_lda
+BRD-K49865102,1.0,1.0,1.0,2,mek inhibitor,moa,shrinkage_lda
+BRD-K50168500,0.38305281855795803,1.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K51313569,0.10496294301733762,0.0,0.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K51544265,0.17800325282603427,0.0,0.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K52911425,0.475,1.0,1.0,4,pi3k inhibitor,moa,shrinkage_lda
+BRD-K53414658,0.24322928533454846,0.0,1.0,9,vegfr inhibitor,moa,shrinkage_lda
+BRD-K57080016,1.0,1.0,1.0,2,mek inhibitor,moa,shrinkage_lda
+BRD-K57169635,0.36733551733551734,1.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K59317601,0.7916666666666666,1.0,1.0,3,mtor inhibitor,moa,shrinkage_lda
+BRD-K60866521,0.5416666666666666,0.0,1.0,4,pi3k inhibitor,moa,shrinkage_lda
+BRD-K64800655,0.5890572390572391,0.0,1.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K66538826,0.5329818273530241,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,shrinkage_lda
+BRD-K67868012,0.9444444444444445,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,shrinkage_lda
+BRD-K70401845,0.1243642127317384,0.0,0.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K70511574,0.027777777777777776,0.0,0.0,1,plk inhibitor,moa,shrinkage_lda
+BRD-K71035033,0.3931453906099403,1.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,shrinkage_lda
+BRD-K72414522,0.8152777777777777,1.0,1.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K74514084,0.425164829756378,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K76908866,0.3678053830227743,0.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K77625799,0.27288261895310034,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K77908580,1.0,1.0,1.0,2,hdac inhibitor,moa,shrinkage_lda
+BRD-K79090631,0.83015873015873,1.0,1.0,6,cdk inhibitor,moa,shrinkage_lda
+BRD-K81528515,0.03791007928595167,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,shrinkage_lda
+BRD-K82928847,1.0,1.0,1.0,2,hdac inhibitor,moa,shrinkage_lda
+BRD-K83963101,0.0787878787878788,0.0,0.0,2,aurora kinase inhibitor,moa,shrinkage_lda
+BRD-K85606544,0.6363848159900791,1.0,1.0,8,egfr inhibitor,moa,shrinkage_lda
+BRD-K87142802,0.18333333333333335,0.0,1.0,2,parp inhibitor,moa,shrinkage_lda
+BRD-K92428232,0.023809523809523808,0.0,0.0,1,plk inhibitor,moa,shrinkage_lda
+BRD-K93123848,0.1787636675424492,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K93918653,0.18774509803921569,0.0,1.0,4,flt3 inhibitor,moa,shrinkage_lda
+BRD-K99749624,0.17182995222215444,0.0,0.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,shrinkage_lda
+BRD-K99964838,0.35046897546897543,1.0,1.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,shrinkage_lda
+BRD-K02113016,0.043560606060606064,0.0,0.0,2,parp inhibitor,moa,filzen_continuous
+BRD-K02123250,0.08862433862433862,0.0,0.0,3,tyrosine kinase inhibitor,moa,filzen_continuous
+BRD-K03449891,0.19651930918270788,0.0,1.0,9,vegfr inhibitor,moa,filzen_continuous
+BRD-K05804044,0.11225403558383411,0.0,1.0,4,raf inhibitor,moa,filzen_continuous
+BRD-K07691486,0.05270709229200485,0.0,0.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K08799216,0.25222426101197654,1.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K09951645,0.10754870129870131,0.0,0.0,4,raf inhibitor,moa,filzen_continuous
+BRD-K11153516,0.03707482993197279,0.0,0.0,2,parp inhibitor,moa,filzen_continuous
+BRD-K12184916,0.32789298515104964,0.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,filzen_continuous
+BRD-K13390322,0.7723809523809524,1.0,1.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K13662825,0.7072768501339929,1.0,1.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K16730910,0.3309892265773381,0.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K17743125,0.5833333333333333,0.0,1.0,2,hdac inhibitor,moa,filzen_continuous
+BRD-K19477839,0.3333333333333333,0.0,1.0,1,hepatocyte growth factor receptor inhibitor,moa,filzen_continuous
+BRD-K19687926,0.2208906688672279,1.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K21718444,0.1541747497777728,0.0,1.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,filzen_continuous
+BRD-K23984367,0.2807794128075293,0.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K28392481,0.10416666666666666,0.0,0.0,2,fgfr inhibitor,moa,filzen_continuous
+BRD-K33379087,0.13742690058479531,0.0,0.0,3,tyrosine kinase inhibitor,moa,filzen_continuous
+BRD-K36740062,0.055322128851540614,0.0,0.0,2,aurora kinase inhibitor,moa,filzen_continuous
+BRD-K37687095,0.1125,0.0,0.0,2,mek inhibitor,moa,filzen_continuous
+BRD-K40175214,0.17456617456617454,0.0,0.0,3,mtor inhibitor,moa,filzen_continuous
+BRD-K40738845,0.17967490738096073,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,filzen_continuous
+BRD-K42191735,0.5536053130929791,1.0,1.0,4,pi3k inhibitor,moa,filzen_continuous
+BRD-K42805893,0.2225975198146923,0.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K49075727,0.24263774998879878,0.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K49328571,0.19717945758093566,0.0,0.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,filzen_continuous
+BRD-K49865102,0.09090909090909091,0.0,0.0,2,mek inhibitor,moa,filzen_continuous
+BRD-K50168500,0.18494224765004816,0.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K51313569,0.15536961911201264,0.0,0.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K51544265,0.37699919088928363,1.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K52911425,0.11115779645191409,0.0,0.0,4,pi3k inhibitor,moa,filzen_continuous
+BRD-K53414658,0.2101751383548242,0.0,1.0,9,vegfr inhibitor,moa,filzen_continuous
+BRD-K57080016,0.08846153846153847,0.0,0.0,2,mek inhibitor,moa,filzen_continuous
+BRD-K57169635,0.20892592740717042,0.0,0.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K59317601,0.462962962962963,1.0,1.0,3,mtor inhibitor,moa,filzen_continuous
+BRD-K60866521,0.0705121491411814,0.0,0.0,4,pi3k inhibitor,moa,filzen_continuous
+BRD-K64800655,0.3340099715099715,0.0,1.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K66538826,0.3123066296012081,0.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,filzen_continuous
+BRD-K67868012,0.3765467171717171,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,filzen_continuous
+BRD-K70401845,0.16928040181243198,0.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K70511574,0.02702702702702703,0.0,0.0,1,plk inhibitor,moa,filzen_continuous
+BRD-K71035033,0.12961356933478235,0.0,0.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,filzen_continuous
+BRD-K72414522,0.5666666666666667,1.0,1.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K74514084,0.2399483759232098,0.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K76908866,0.23174762943932414,1.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K77625799,0.3787646605556937,1.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K77908580,0.7,1.0,1.0,2,hdac inhibitor,moa,filzen_continuous
+BRD-K79090631,0.547826479076479,1.0,1.0,6,cdk inhibitor,moa,filzen_continuous
+BRD-K81528515,0.04944856730571016,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,filzen_continuous
+BRD-K82928847,0.5,0.0,1.0,2,hdac inhibitor,moa,filzen_continuous
+BRD-K83963101,0.028068137824235385,0.0,0.0,2,aurora kinase inhibitor,moa,filzen_continuous
+BRD-K85606544,0.22744548769534884,0.0,1.0,8,egfr inhibitor,moa,filzen_continuous
+BRD-K87142802,0.14627659574468085,0.0,1.0,2,parp inhibitor,moa,filzen_continuous
+BRD-K92428232,0.037037037037037035,0.0,0.0,1,plk inhibitor,moa,filzen_continuous
+BRD-K93123848,0.1667841696201933,0.0,0.0,11,raf inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K93918653,0.11246947496947497,0.0,0.0,4,flt3 inhibitor,moa,filzen_continuous
+BRD-K99749624,0.18028731342454976,0.0,1.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_continuous
+BRD-K99964838,0.09430858303809124,0.0,0.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,filzen_continuous
+BRD-K02113016,0.07788461538461539,0.0,0.0,2,parp inhibitor,moa,filzen_binary
+BRD-K02123250,0.040695415695415696,0.0,0.0,3,tyrosine kinase inhibitor,moa,filzen_binary
+BRD-K03449891,0.17529355564171287,0.0,1.0,9,vegfr inhibitor,moa,filzen_binary
+BRD-K05804044,0.08691077441077441,0.0,1.0,4,raf inhibitor,moa,filzen_binary
+BRD-K07691486,0.08885995817400953,0.0,0.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K08799216,0.24445455180162626,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K09951645,0.08604497354497355,0.0,1.0,4,raf inhibitor,moa,filzen_binary
+BRD-K11153516,0.0761986301369863,0.0,0.0,2,parp inhibitor,moa,filzen_binary
+BRD-K12184916,0.0886456596885724,0.0,0.0,6,mtor inhibitor|pi3k inhibitor,moa,filzen_binary
+BRD-K13390322,0.11058989621489622,0.0,0.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K13662825,0.27917186979686975,1.0,1.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K16730910,0.23669059240340132,0.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K17743125,0.5,0.0,1.0,2,hdac inhibitor,moa,filzen_binary
+BRD-K19477839,0.020833333333333332,0.0,0.0,1,hepatocyte growth factor receptor inhibitor,moa,filzen_binary
+BRD-K19687926,0.13885012500494692,0.0,0.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K21718444,0.2868853705100636,1.0,1.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,filzen_binary
+BRD-K23984367,0.25359010460273185,0.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K28392481,0.04871794871794872,0.0,0.0,2,fgfr inhibitor,moa,filzen_binary
+BRD-K33379087,0.03535353535353535,0.0,0.0,3,tyrosine kinase inhibitor,moa,filzen_binary
+BRD-K36740062,0.05263157894736842,0.0,0.0,2,aurora kinase inhibitor,moa,filzen_binary
+BRD-K37687095,0.038407329105003524,0.0,0.0,2,mek inhibitor,moa,filzen_binary
+BRD-K40175214,0.049724071229447574,0.0,0.0,3,mtor inhibitor,moa,filzen_binary
+BRD-K40738845,0.11342632807087506,0.0,1.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,filzen_binary
+BRD-K42191735,0.061029711029711026,0.0,0.0,4,pi3k inhibitor,moa,filzen_binary
+BRD-K42805893,0.23380114271071717,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K49075727,0.24668908889155133,0.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K49328571,0.34512353310682414,1.0,1.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,filzen_binary
+BRD-K49865102,0.03555967841682127,0.0,0.0,2,mek inhibitor,moa,filzen_binary
+BRD-K50168500,0.228672937582512,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K51313569,0.10503434065934066,0.0,0.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K51544265,0.22065545807014156,0.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K52911425,0.04341145070468379,0.0,0.0,4,pi3k inhibitor,moa,filzen_binary
+BRD-K53414658,0.21396274296142323,0.0,1.0,9,vegfr inhibitor,moa,filzen_binary
+BRD-K57080016,0.03231292517006802,0.0,0.0,2,mek inhibitor,moa,filzen_binary
+BRD-K57169635,0.21825627091584537,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K59317601,0.033253671268199114,0.0,0.0,3,mtor inhibitor,moa,filzen_binary
+BRD-K60866521,0.054594517695204195,0.0,0.0,4,pi3k inhibitor,moa,filzen_binary
+BRD-K64800655,0.2198070607553366,0.0,1.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K66538826,0.2198987075390133,0.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,filzen_binary
+BRD-K67868012,0.07774301289205023,0.0,0.0,6,mtor inhibitor|pi3k inhibitor,moa,filzen_binary
+BRD-K70401845,0.12610459438112487,0.0,0.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K70511574,0.16666666666666666,0.0,0.0,1,plk inhibitor,moa,filzen_binary
+BRD-K71035033,0.35230744328954033,1.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,filzen_binary
+BRD-K72414522,0.18168540564373895,0.0,1.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K74514084,0.22583711243740826,0.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K76908866,0.2078396042491787,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K77625799,0.28478036482514774,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K77908580,0.45,0.0,1.0,2,hdac inhibitor,moa,filzen_binary
+BRD-K79090631,0.27917186979686975,1.0,1.0,6,cdk inhibitor,moa,filzen_binary
+BRD-K81528515,0.36735572782084414,1.0,1.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,filzen_binary
+BRD-K82928847,0.25,0.0,1.0,2,hdac inhibitor,moa,filzen_binary
+BRD-K83963101,0.02851851851851852,0.0,0.0,2,aurora kinase inhibitor,moa,filzen_binary
+BRD-K85606544,0.2015896042491787,0.0,1.0,8,egfr inhibitor,moa,filzen_binary
+BRD-K87142802,0.0215111301369863,0.0,0.0,2,parp inhibitor,moa,filzen_binary
+BRD-K92428232,0.043478260869565216,0.0,0.0,1,plk inhibitor,moa,filzen_binary
+BRD-K93123848,0.16837596537846122,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K93918653,0.052567019046344615,0.0,0.0,4,flt3 inhibitor,moa,filzen_binary
+BRD-K99749624,0.18827470082315045,0.0,0.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,filzen_binary
+BRD-K99964838,0.0869995501574449,0.0,0.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,filzen_binary
+BRD-K02113016,0.02418463239358762,0.0,0.0,2,parp inhibitor,moa,ssgsea_hallmark
+BRD-K02123250,0.13703703703703704,0.0,0.0,3,tyrosine kinase inhibitor,moa,ssgsea_hallmark
+BRD-K03449891,0.1501044607654935,0.0,0.0,9,vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K05804044,0.09490472977315081,0.0,0.0,4,raf inhibitor,moa,ssgsea_hallmark
+BRD-K07691486,0.19521316102198458,0.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K08799216,0.4862260470926532,1.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K09951645,0.04989571586210241,0.0,0.0,4,raf inhibitor,moa,ssgsea_hallmark
+BRD-K11153516,0.1553030303030303,0.0,1.0,2,parp inhibitor,moa,ssgsea_hallmark
+BRD-K12184916,0.9444444444444445,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,ssgsea_hallmark
+BRD-K13390322,0.6503411306042884,1.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K13662825,0.6647970085470085,1.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K16730910,0.44267736526366447,1.0,1.0,15,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K17743125,0.7,1.0,1.0,2,hdac inhibitor,moa,ssgsea_hallmark
+BRD-K19477839,0.08333333333333333,0.0,0.0,1,hepatocyte growth factor receptor inhibitor,moa,ssgsea_hallmark
+BRD-K19687926,0.3035798378586363,1.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K21718444,0.1236014334925283,0.0,0.0,8,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,moa,ssgsea_hallmark
+BRD-K23984367,0.3197097372781686,1.0,1.0,17,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K28392481,0.10964912280701754,0.0,0.0,2,fgfr inhibitor,moa,ssgsea_hallmark
+BRD-K33379087,0.03649425287356322,0.0,0.0,3,tyrosine kinase inhibitor,moa,ssgsea_hallmark
+BRD-K36740062,0.08712121212121213,0.0,0.0,2,aurora kinase inhibitor,moa,ssgsea_hallmark
+BRD-K37687095,0.09027777777777778,0.0,0.0,2,mek inhibitor,moa,ssgsea_hallmark
+BRD-K40175214,0.4777777777777777,0.0,1.0,3,mtor inhibitor,moa,ssgsea_hallmark
+BRD-K40738845,0.08822698543680688,0.0,0.0,8,flt3 inhibitor|hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,moa,ssgsea_hallmark
+BRD-K42191735,0.6041666666666666,0.0,1.0,4,pi3k inhibitor,moa,ssgsea_hallmark
+BRD-K42805893,0.14189261867561903,0.0,0.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K49075727,0.26807037148630003,0.0,1.0,13,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K49328571,0.20652028992545668,1.0,1.0,12,bcr-abl kinase inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,moa,ssgsea_hallmark
+BRD-K49865102,0.75,1.0,1.0,2,mek inhibitor,moa,ssgsea_hallmark
+BRD-K50168500,0.19889862327909885,0.0,0.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K51313569,0.11280645693689172,0.0,0.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K51544265,0.2903699355141155,0.0,1.0,10,ret tyrosine kinase inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K52911425,0.2401785714285714,0.0,1.0,4,pi3k inhibitor,moa,ssgsea_hallmark
+BRD-K53414658,0.2649318955520506,0.0,1.0,9,vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K57080016,0.5909090909090909,1.0,1.0,2,mek inhibitor,moa,ssgsea_hallmark
+BRD-K57169635,0.3749920805604446,1.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K59317601,0.8055555555555555,1.0,1.0,3,mtor inhibitor,moa,ssgsea_hallmark
+BRD-K60866521,0.5666666666666667,0.0,1.0,4,pi3k inhibitor,moa,ssgsea_hallmark
+BRD-K64800655,0.523015873015873,0.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K66538826,0.6017310465163151,1.0,1.0,12,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|ret tyrosine kinase inhibitor,moa,ssgsea_hallmark
+BRD-K67868012,0.676435325903411,1.0,1.0,6,mtor inhibitor|pi3k inhibitor,moa,ssgsea_hallmark
+BRD-K70401845,0.17550558351619183,0.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K70511574,0.07692307692307693,0.0,0.0,1,plk inhibitor,moa,ssgsea_hallmark
+BRD-K71035033,0.23194795677264118,0.0,1.0,8,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,moa,ssgsea_hallmark
+BRD-K72414522,0.6183691756272401,1.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K74514084,0.4455825774139728,1.0,1.0,12,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K76908866,0.39490440453855086,1.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K77625799,0.4259020803177258,0.0,1.0,18,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K77908580,0.2712765957446808,0.0,1.0,2,hdac inhibitor,moa,ssgsea_hallmark
+BRD-K79090631,0.5753519356460532,1.0,1.0,6,cdk inhibitor,moa,ssgsea_hallmark
+BRD-K81528515,0.035443347744514235,0.0,0.0,3,abl kinase inhibitor|bcr-abl kinase inhibitor,moa,ssgsea_hallmark
+BRD-K82928847,0.5384615384615384,1.0,1.0,2,hdac inhibitor,moa,ssgsea_hallmark
+BRD-K83963101,0.06797235023041474,0.0,0.0,2,aurora kinase inhibitor,moa,ssgsea_hallmark
+BRD-K85606544,0.28968783409572885,0.0,1.0,8,egfr inhibitor,moa,ssgsea_hallmark
+BRD-K87142802,0.12698412698412698,0.0,0.0,2,parp inhibitor,moa,ssgsea_hallmark
+BRD-K92428232,0.08333333333333333,0.0,0.0,1,plk inhibitor,moa,ssgsea_hallmark
+BRD-K93123848,0.23202572283514142,0.0,1.0,11,raf inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K93918653,0.3310185185185185,0.0,1.0,4,flt3 inhibitor,moa,ssgsea_hallmark
+BRD-K99749624,0.23878149024346143,1.0,1.0,12,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,moa,ssgsea_hallmark
+BRD-K99964838,0.057793488491486265,0.0,0.0,4,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,moa,ssgsea_hallmark
+BRD-K02113016,0.5138888888888888,1.0,1.0,2,parp1|parp2,target,raw_cosine
+BRD-K02123250,0.12074273860354572,0.0,0.0,6,met,target,raw_cosine
+BRD-K03449891,0.20587242517436977,0.0,0.0,15,flt1|flt4|kdr|met,target,raw_cosine
+BRD-K05804044,0.09601648351648352,0.0,1.0,4,braf|raf1,target,raw_cosine
+BRD-K07691486,0.047336997556052876,0.0,0.0,5,cdk2|cdk9,target,raw_cosine
+BRD-K08799216,0.32716267091267087,1.0,1.0,7,egfr,target,raw_cosine
+BRD-K09951645,0.06739094239094238,0.0,0.0,4,braf|raf1,target,raw_cosine
+BRD-K11153516,0.022989889263360617,0.0,0.0,2,parp1,target,raw_cosine
+BRD-K12184916,0.7303221288515406,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,raw_cosine
+BRD-K13390322,0.47003205128205133,1.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,raw_cosine
+BRD-K13662825,0.4989583333333333,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,raw_cosine
+BRD-K16730910,0.50877039071453,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,raw_cosine
+BRD-K17743125,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,raw_cosine
+BRD-K19477839,0.31463297547350966,1.0,1.0,6,met,target,raw_cosine
+BRD-K19687926,0.23203289570112012,0.0,1.0,8,egfr|erbb2,target,raw_cosine
+BRD-K20285085,0.08031381224600405,0.0,0.0,6,ret,target,raw_cosine
+BRD-K21718444,0.19865607747862365,0.0,1.0,10,abl1|aurka|aurkb|flt3,target,raw_cosine
+BRD-K23984367,0.3491501071249844,0.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,raw_cosine
+BRD-K28392481,0.21963552131016242,0.0,0.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,raw_cosine
+BRD-K33379087,0.06175480001835527,0.0,0.0,6,met,target,raw_cosine
+BRD-K36740062,0.051587301587301584,0.0,0.0,2,aurka|aurkb,target,raw_cosine
+BRD-K40175214,0.625,1.0,1.0,3,mtor,target,raw_cosine
+BRD-K40738845,0.23475429451649724,0.0,1.0,6,met,target,raw_cosine
+BRD-K42191735,0.3023584258878377,0.0,1.0,5,pik3ca|pik3cg,target,raw_cosine
+BRD-K42805893,0.13307568516525364,0.0,0.0,7,egfr,target,raw_cosine
+BRD-K49075727,0.280089383172326,1.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,raw_cosine
+BRD-K49328571,0.3054244363829628,0.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,raw_cosine
+BRD-K49865102,0.06851851851851852,0.0,0.0,2,map2k1,target,raw_cosine
+BRD-K50168500,0.32134378565547883,1.0,1.0,10,akt1|egfr|erbb2|erbb4,target,raw_cosine
+BRD-K51313569,0.08712121212121213,0.0,0.0,2,cdk4|cdk6,target,raw_cosine
+BRD-K51544265,0.3776682730973386,0.0,1.0,17,kdr|met|ret,target,raw_cosine
+BRD-K52911425,0.43062801932367145,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,raw_cosine
+BRD-K53414658,0.34615819724195085,1.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,raw_cosine
+BRD-K57080016,0.5555555555555556,1.0,1.0,2,map2k1,target,raw_cosine
+BRD-K57169635,0.3592904330542587,1.0,1.0,8,egfr|erbb2|erbb4,target,raw_cosine
+BRD-K59317601,0.6520833333333333,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,raw_cosine
+BRD-K60866521,0.2028921568627451,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,raw_cosine
+BRD-K64800655,0.37925925925925924,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,raw_cosine
+BRD-K66538826,0.3496415839536044,1.0,1.0,15,kit|met,target,raw_cosine
+BRD-K67868012,0.5260037348272643,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,raw_cosine
+BRD-K68065987,0.04946236559139785,0.0,0.0,2,akt1,target,raw_cosine
+BRD-K70401845,0.1342863804560726,0.0,1.0,7,egfr,target,raw_cosine
+BRD-K70511574,0.1,0.0,0.0,1,plk1,target,raw_cosine
+BRD-K71035033,0.3859370739154423,0.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,raw_cosine
+BRD-K74065929,0.07692307692307693,0.0,0.0,1,mapk11,target,raw_cosine
+BRD-K74514084,0.45773000723038865,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,raw_cosine
+BRD-K76908866,0.09749168000441344,0.0,0.0,5,erbb2,target,raw_cosine
+BRD-K77625799,0.4439159035299775,0.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,raw_cosine
+BRD-K77908580,0.7,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,raw_cosine
+BRD-K79090631,0.28791666666666665,0.0,1.0,5,cdk1|cdk2,target,raw_cosine
+BRD-K79404599,0.04111295681063123,0.0,0.0,2,akt1,target,raw_cosine
+BRD-K80700417,0.05782474141785052,0.0,0.0,4,flt3,target,raw_cosine
+BRD-K81528515,0.19532369465916896,0.0,1.0,11,abl1|kit,target,raw_cosine
+BRD-K82928847,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,raw_cosine
+BRD-K83963101,0.035160575858250276,0.0,0.0,2,aurka,target,raw_cosine
+BRD-K85606544,0.4027759344906646,0.0,1.0,17,egfr|erbb2|kdr,target,raw_cosine
+BRD-K87142802,0.11408450704225352,0.0,1.0,2,parp1|parp2,target,raw_cosine
+BRD-K92428232,0.03571428571428571,0.0,0.0,1,plk1,target,raw_cosine
+BRD-K93123848,0.176984126984127,0.0,1.0,4,braf,target,raw_cosine
+BRD-K93918653,0.37360351386086676,0.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,raw_cosine
+BRD-K99749624,0.241110452173607,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,raw_cosine
+BRD-K99964838,0.21078416100913847,0.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,raw_cosine
+BRD-K02113016,0.2638888888888889,0.0,1.0,2,parp1|parp2,target,pca_64
+BRD-K02123250,0.10952756032847565,0.0,0.0,6,met,target,pca_64
+BRD-K03449891,0.21076199659795183,0.0,0.0,15,flt1|flt4|kdr|met,target,pca_64
+BRD-K05804044,0.09433805573511456,0.0,0.0,4,braf|raf1,target,pca_64
+BRD-K07691486,0.047378530224091386,0.0,0.0,5,cdk2|cdk9,target,pca_64
+BRD-K08799216,0.15872795402048176,0.0,1.0,7,egfr,target,pca_64
+BRD-K09951645,0.06406765903587937,0.0,0.0,4,braf|raf1,target,pca_64
+BRD-K11153516,0.023689516129032258,0.0,0.0,2,parp1,target,pca_64
+BRD-K12184916,0.6898148148148149,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,pca_64
+BRD-K13390322,0.48969178969178967,1.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,pca_64
+BRD-K13662825,0.47939560439560436,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,pca_64
+BRD-K16730910,0.4704992000334743,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,pca_64
+BRD-K17743125,0.8333333333333333,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,pca_64
+BRD-K19477839,0.22688972394854745,0.0,1.0,6,met,target,pca_64
+BRD-K19687926,0.25144828816555576,1.0,1.0,8,egfr|erbb2,target,pca_64
+BRD-K20285085,0.09344699648079063,0.0,0.0,6,ret,target,pca_64
+BRD-K21718444,0.1747124240138946,0.0,0.0,10,abl1|aurka|aurkb|flt3,target,pca_64
+BRD-K23984367,0.36388208256806576,1.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,pca_64
+BRD-K28392481,0.2521922513575312,0.0,0.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,pca_64
+BRD-K33379087,0.08460907254820431,0.0,0.0,6,met,target,pca_64
+BRD-K36740062,0.04080854309687262,0.0,0.0,2,aurka|aurkb,target,pca_64
+BRD-K40175214,0.6805555555555555,1.0,1.0,3,mtor,target,pca_64
+BRD-K40738845,0.20150294150294154,0.0,1.0,6,met,target,pca_64
+BRD-K42191735,0.4095238095238095,0.0,1.0,5,pik3ca|pik3cg,target,pca_64
+BRD-K42805893,0.15399888166893724,0.0,1.0,7,egfr,target,pca_64
+BRD-K49075727,0.22803295563935852,0.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,pca_64
+BRD-K49328571,0.307430334426409,1.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,pca_64
+BRD-K49865102,0.032782515991471216,0.0,0.0,2,map2k1,target,pca_64
+BRD-K50168500,0.23736275631169274,0.0,1.0,10,akt1|egfr|erbb2|erbb4,target,pca_64
+BRD-K51313569,0.16233766233766234,0.0,0.0,2,cdk4|cdk6,target,pca_64
+BRD-K51544265,0.3473990719815004,0.0,1.0,17,kdr|met|ret,target,pca_64
+BRD-K52911425,0.265034965034965,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,pca_64
+BRD-K53414658,0.39582269372267226,1.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,pca_64
+BRD-K57080016,0.27941176470588236,0.0,1.0,2,map2k1,target,pca_64
+BRD-K57169635,0.18590647857889236,0.0,0.0,8,egfr|erbb2|erbb4,target,pca_64
+BRD-K59317601,0.6416666666666667,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,pca_64
+BRD-K60866521,0.19854454685099845,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,pca_64
+BRD-K64800655,0.39540816326530615,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,pca_64
+BRD-K66538826,0.38374308833811793,1.0,1.0,15,kit|met,target,pca_64
+BRD-K67868012,0.3751068376068376,0.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,pca_64
+BRD-K68065987,0.08866995073891626,0.0,0.0,2,akt1,target,pca_64
+BRD-K70401845,0.17404759232988426,0.0,1.0,7,egfr,target,pca_64
+BRD-K70511574,0.05555555555555555,0.0,0.0,1,plk1,target,pca_64
+BRD-K71035033,0.3646502613762222,0.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,pca_64
+BRD-K74065929,0.1,0.0,0.0,1,mapk11,target,pca_64
+BRD-K74514084,0.3960935473241121,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,pca_64
+BRD-K76908866,0.1146524064171123,0.0,0.0,5,erbb2,target,pca_64
+BRD-K77625799,0.44559080543812957,1.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,pca_64
+BRD-K77908580,0.5909090909090909,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,pca_64
+BRD-K79090631,0.2863492063492063,0.0,1.0,5,cdk1|cdk2,target,pca_64
+BRD-K79404599,0.038798920377867745,0.0,0.0,2,akt1,target,pca_64
+BRD-K80700417,0.0627295871976723,0.0,0.0,4,flt3,target,pca_64
+BRD-K81528515,0.19427937312241914,0.0,1.0,11,abl1|kit,target,pca_64
+BRD-K82928847,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,pca_64
+BRD-K83963101,0.02904040404040404,0.0,0.0,2,aurka,target,pca_64
+BRD-K85606544,0.3088927024261262,0.0,1.0,17,egfr|erbb2|kdr,target,pca_64
+BRD-K87142802,0.11408450704225352,0.0,1.0,2,parp1|parp2,target,pca_64
+BRD-K92428232,0.03125,0.0,0.0,1,plk1,target,pca_64
+BRD-K93123848,0.11698130498533725,0.0,1.0,4,braf,target,pca_64
+BRD-K93918653,0.4358449310320356,0.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,pca_64
+BRD-K99749624,0.2805607668549014,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,pca_64
+BRD-K99964838,0.21302583757456403,0.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,pca_64
+BRD-K02113016,0.5138888888888888,1.0,1.0,2,parp1|parp2,target,limma_weighted
+BRD-K02123250,0.12057285035226212,0.0,0.0,6,met,target,limma_weighted
+BRD-K03449891,0.20799501355415678,0.0,0.0,15,flt1|flt4|kdr|met,target,limma_weighted
+BRD-K05804044,0.12843264810477925,0.0,1.0,4,braf|raf1,target,limma_weighted
+BRD-K07691486,0.04710205198625819,0.0,0.0,5,cdk2|cdk9,target,limma_weighted
+BRD-K08799216,0.3732015930748281,1.0,1.0,7,egfr,target,limma_weighted
+BRD-K09951645,0.06739094239094238,0.0,0.0,4,braf|raf1,target,limma_weighted
+BRD-K11153516,0.023122094445803768,0.0,0.0,2,parp1,target,limma_weighted
+BRD-K12184916,0.7303221288515406,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,limma_weighted
+BRD-K13390322,0.4672508116675615,1.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,limma_weighted
+BRD-K13662825,0.4989583333333333,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,limma_weighted
+BRD-K16730910,0.5196880875372476,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,limma_weighted
+BRD-K17743125,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,limma_weighted
+BRD-K19477839,0.31887556887556884,1.0,1.0,6,met,target,limma_weighted
+BRD-K19687926,0.2960458517230963,1.0,1.0,8,egfr|erbb2,target,limma_weighted
+BRD-K20285085,0.07821669942675231,0.0,0.0,6,ret,target,limma_weighted
+BRD-K21718444,0.20211279863122122,0.0,1.0,10,abl1|aurka|aurkb|flt3,target,limma_weighted
+BRD-K23984367,0.3651981651324143,0.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,limma_weighted
+BRD-K28392481,0.22020196866237923,0.0,0.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,limma_weighted
+BRD-K33379087,0.06451196433601919,0.0,0.0,6,met,target,limma_weighted
+BRD-K36740062,0.049206349206349205,0.0,0.0,2,aurka|aurkb,target,limma_weighted
+BRD-K40175214,0.6805555555555555,1.0,1.0,3,mtor,target,limma_weighted
+BRD-K40738845,0.23720238095238097,0.0,1.0,6,met,target,limma_weighted
+BRD-K42191735,0.3078129713423831,0.0,1.0,5,pik3ca|pik3cg,target,limma_weighted
+BRD-K42805893,0.12725922464824202,0.0,0.0,7,egfr,target,limma_weighted
+BRD-K49075727,0.28283258224980656,1.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,limma_weighted
+BRD-K49328571,0.30413580352799185,0.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,limma_weighted
+BRD-K49865102,0.07373737373737374,0.0,0.0,2,map2k1,target,limma_weighted
+BRD-K50168500,0.25283122335753916,0.0,1.0,10,akt1|egfr|erbb2|erbb4,target,limma_weighted
+BRD-K51313569,0.08712121212121213,0.0,0.0,2,cdk4|cdk6,target,limma_weighted
+BRD-K51544265,0.3823643892458848,0.0,1.0,17,kdr|met|ret,target,limma_weighted
+BRD-K52911425,0.4311111111111111,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,limma_weighted
+BRD-K53414658,0.35569731256593706,1.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,limma_weighted
+BRD-K57080016,0.5625,1.0,1.0,2,map2k1,target,limma_weighted
+BRD-K57169635,0.40335473269767674,1.0,1.0,8,egfr|erbb2|erbb4,target,limma_weighted
+BRD-K59317601,0.511904761904762,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,limma_weighted
+BRD-K60866521,0.19688141923436042,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,limma_weighted
+BRD-K64800655,0.37966742252456537,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,limma_weighted
+BRD-K66538826,0.36584407745380204,1.0,1.0,15,kit|met,target,limma_weighted
+BRD-K67868012,0.5262597512123128,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,limma_weighted
+BRD-K68065987,0.04946236559139785,0.0,0.0,2,akt1,target,limma_weighted
+BRD-K70401845,0.13493171381156363,0.0,1.0,7,egfr,target,limma_weighted
+BRD-K70511574,0.1,0.0,0.0,1,plk1,target,limma_weighted
+BRD-K71035033,0.4010946394874966,0.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,limma_weighted
+BRD-K74065929,0.09090909090909091,0.0,0.0,1,mapk11,target,limma_weighted
+BRD-K74514084,0.5068962977877706,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,limma_weighted
+BRD-K76908866,0.10410089357014876,0.0,0.0,5,erbb2,target,limma_weighted
+BRD-K77625799,0.43576529939706354,0.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,limma_weighted
+BRD-K77908580,0.8333333333333333,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,limma_weighted
+BRD-K79090631,0.28788923719958204,0.0,1.0,5,cdk1|cdk2,target,limma_weighted
+BRD-K79404599,0.041056910569105695,0.0,0.0,2,akt1,target,limma_weighted
+BRD-K80700417,0.05846311270839573,0.0,0.0,4,flt3,target,limma_weighted
+BRD-K81528515,0.2031431698204427,0.0,1.0,11,abl1|kit,target,limma_weighted
+BRD-K82928847,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,limma_weighted
+BRD-K83963101,0.03393425238600212,0.0,0.0,2,aurka,target,limma_weighted
+BRD-K85606544,0.40939391738230674,0.0,1.0,17,egfr|erbb2|kdr,target,limma_weighted
+BRD-K87142802,0.11408450704225352,0.0,1.0,2,parp1|parp2,target,limma_weighted
+BRD-K92428232,0.03571428571428571,0.0,0.0,1,plk1,target,limma_weighted
+BRD-K93123848,0.20602608422375862,0.0,1.0,4,braf,target,limma_weighted
+BRD-K93918653,0.3911888247636219,0.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,limma_weighted
+BRD-K99749624,0.23929721731364031,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,limma_weighted
+BRD-K99964838,0.2098349420336051,0.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,limma_weighted
+BRD-K02113016,0.04351851851851852,0.0,0.0,2,parp1|parp2,target,replicate_contrastive
+BRD-K02123250,0.14872795648246337,0.0,1.0,6,met,target,replicate_contrastive
+BRD-K03449891,0.281334294043906,0.0,1.0,15,flt1|flt4|kdr|met,target,replicate_contrastive
+BRD-K05804044,0.060876737106245304,0.0,0.0,4,braf|raf1,target,replicate_contrastive
+BRD-K07691486,0.07052874661570313,0.0,0.0,5,cdk2|cdk9,target,replicate_contrastive
+BRD-K08799216,0.32155310428555206,1.0,1.0,7,egfr,target,replicate_contrastive
+BRD-K09951645,0.048466810966810964,0.0,0.0,4,braf|raf1,target,replicate_contrastive
+BRD-K11153516,0.02724137931034483,0.0,0.0,2,parp1,target,replicate_contrastive
+BRD-K12184916,0.721474358974359,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,replicate_contrastive
+BRD-K13390322,0.39404761904761904,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,replicate_contrastive
+BRD-K13662825,0.3184057971014493,0.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,replicate_contrastive
+BRD-K16730910,0.40831009979243754,0.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,replicate_contrastive
+BRD-K17743125,0.5833333333333333,0.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,replicate_contrastive
+BRD-K19477839,0.24746626471432673,1.0,1.0,6,met,target,replicate_contrastive
+BRD-K19687926,0.13439099277915068,0.0,1.0,8,egfr|erbb2,target,replicate_contrastive
+BRD-K20285085,0.0690766005589372,0.0,0.0,6,ret,target,replicate_contrastive
+BRD-K21718444,0.18881665140678422,0.0,0.0,10,abl1|aurka|aurkb|flt3,target,replicate_contrastive
+BRD-K23984367,0.5109441166947564,1.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,replicate_contrastive
+BRD-K28392481,0.2671149557513193,0.0,0.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,replicate_contrastive
+BRD-K33379087,0.09657971740838482,0.0,0.0,6,met,target,replicate_contrastive
+BRD-K36740062,0.125,0.0,0.0,2,aurka|aurkb,target,replicate_contrastive
+BRD-K40175214,0.43434343434343425,0.0,1.0,3,mtor,target,replicate_contrastive
+BRD-K40738845,0.12132635882635882,0.0,0.0,6,met,target,replicate_contrastive
+BRD-K42191735,0.45636363636363636,0.0,1.0,5,pik3ca|pik3cg,target,replicate_contrastive
+BRD-K42805893,0.13829204051129834,0.0,0.0,7,egfr,target,replicate_contrastive
+BRD-K49075727,0.30572130744976117,0.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,replicate_contrastive
+BRD-K49328571,0.3089449209866102,1.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,replicate_contrastive
+BRD-K49865102,0.34090909090909094,0.0,1.0,2,map2k1,target,replicate_contrastive
+BRD-K50168500,0.19624321398649444,0.0,1.0,10,akt1|egfr|erbb2|erbb4,target,replicate_contrastive
+BRD-K51313569,0.050310559006211175,0.0,0.0,2,cdk4|cdk6,target,replicate_contrastive
+BRD-K51544265,0.28014041795517275,0.0,0.0,17,kdr|met|ret,target,replicate_contrastive
+BRD-K52911425,0.5053921568627451,1.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,replicate_contrastive
+BRD-K53414658,0.4254769370199568,0.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,replicate_contrastive
+BRD-K57080016,0.41666666666666663,0.0,1.0,2,map2k1,target,replicate_contrastive
+BRD-K57169635,0.22797432497589198,0.0,1.0,8,egfr|erbb2|erbb4,target,replicate_contrastive
+BRD-K59317601,0.6444444444444445,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,replicate_contrastive
+BRD-K60866521,0.5394096099978452,1.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,replicate_contrastive
+BRD-K64800655,0.3315972222222222,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,replicate_contrastive
+BRD-K66538826,0.5232527543927383,1.0,1.0,15,kit|met,target,replicate_contrastive
+BRD-K67868012,0.8768115942028986,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,replicate_contrastive
+BRD-K68065987,0.03835227272727273,0.0,0.0,2,akt1,target,replicate_contrastive
+BRD-K70401845,0.07156131633155381,0.0,0.0,7,egfr,target,replicate_contrastive
+BRD-K70511574,0.07142857142857142,0.0,0.0,1,plk1,target,replicate_contrastive
+BRD-K71035033,0.4940918501788067,1.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,replicate_contrastive
+BRD-K74065929,0.058823529411764705,0.0,0.0,1,mapk11,target,replicate_contrastive
+BRD-K74514084,0.47172815551423347,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,replicate_contrastive
+BRD-K76908866,0.06726830517153097,0.0,0.0,5,erbb2,target,replicate_contrastive
+BRD-K77625799,0.47430102403686275,0.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,replicate_contrastive
+BRD-K77908580,0.75,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,replicate_contrastive
+BRD-K79090631,0.3556410256410256,0.0,1.0,5,cdk1|cdk2,target,replicate_contrastive
+BRD-K79404599,0.02639344262295082,0.0,0.0,2,akt1,target,replicate_contrastive
+BRD-K80700417,0.11591880341880341,0.0,0.0,4,flt3,target,replicate_contrastive
+BRD-K81528515,0.5915116849372004,1.0,1.0,11,abl1|kit,target,replicate_contrastive
+BRD-K82928847,0.8333333333333333,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,replicate_contrastive
+BRD-K83963101,0.060833333333333336,0.0,0.0,2,aurka,target,replicate_contrastive
+BRD-K85606544,0.463053679311137,1.0,1.0,17,egfr|erbb2|kdr,target,replicate_contrastive
+BRD-K87142802,0.12037037037037036,0.0,0.0,2,parp1|parp2,target,replicate_contrastive
+BRD-K92428232,0.023809523809523808,0.0,0.0,1,plk1,target,replicate_contrastive
+BRD-K93123848,0.08108718766613503,0.0,0.0,4,braf,target,replicate_contrastive
+BRD-K93918653,0.36665966498413305,0.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,replicate_contrastive
+BRD-K99749624,0.24994372034378637,0.0,0.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,replicate_contrastive
+BRD-K99964838,0.3493825116316289,1.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,replicate_contrastive
+BRD-K02113016,0.07729468599033816,0.0,0.0,2,parp1|parp2,target,shrinkage_lda
+BRD-K02123250,0.18173150526091705,0.0,1.0,6,met,target,shrinkage_lda
+BRD-K03449891,0.24393709249530468,0.0,1.0,15,flt1|flt4|kdr|met,target,shrinkage_lda
+BRD-K05804044,0.1822968697968698,0.0,1.0,4,braf|raf1,target,shrinkage_lda
+BRD-K07691486,0.1030951786011756,0.0,0.0,5,cdk2|cdk9,target,shrinkage_lda
+BRD-K08799216,0.5032498371689101,1.0,1.0,7,egfr,target,shrinkage_lda
+BRD-K09951645,0.04850766854242525,0.0,0.0,4,braf|raf1,target,shrinkage_lda
+BRD-K11153516,0.10263157894736842,0.0,0.0,2,parp1,target,shrinkage_lda
+BRD-K12184916,0.8722222222222222,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,shrinkage_lda
+BRD-K13390322,0.4953703703703704,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,shrinkage_lda
+BRD-K13662825,0.5183006535947713,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,shrinkage_lda
+BRD-K16730910,0.5540118420254011,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,shrinkage_lda
+BRD-K17743125,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,shrinkage_lda
+BRD-K19477839,0.26844553634375523,1.0,1.0,6,met,target,shrinkage_lda
+BRD-K19687926,0.15458061844884932,0.0,1.0,8,egfr|erbb2,target,shrinkage_lda
+BRD-K20285085,0.06664023566474753,0.0,0.0,6,ret,target,shrinkage_lda
+BRD-K21718444,0.20479914693149986,0.0,1.0,10,abl1|aurka|aurkb|flt3,target,shrinkage_lda
+BRD-K23984367,0.5821435738346775,1.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,shrinkage_lda
+BRD-K28392481,0.2878632531742579,0.0,1.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,shrinkage_lda
+BRD-K33379087,0.0690318990352797,0.0,0.0,6,met,target,shrinkage_lda
+BRD-K36740062,0.1588235294117647,0.0,1.0,2,aurka|aurkb,target,shrinkage_lda
+BRD-K40175214,0.7916666666666666,1.0,1.0,3,mtor,target,shrinkage_lda
+BRD-K40738845,0.13547955312661195,0.0,0.0,6,met,target,shrinkage_lda
+BRD-K42191735,0.6861904761904762,0.0,1.0,5,pik3ca|pik3cg,target,shrinkage_lda
+BRD-K42805893,0.1087508698210866,0.0,0.0,7,egfr,target,shrinkage_lda
+BRD-K49075727,0.3960051045748369,1.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,shrinkage_lda
+BRD-K49328571,0.2717541552992613,0.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,shrinkage_lda
+BRD-K49865102,0.6,1.0,1.0,2,map2k1,target,shrinkage_lda
+BRD-K50168500,0.3580793286674779,1.0,1.0,10,akt1|egfr|erbb2|erbb4,target,shrinkage_lda
+BRD-K51313569,0.050505050505050504,0.0,0.0,2,cdk4|cdk6,target,shrinkage_lda
+BRD-K51544265,0.29333555410228707,0.0,1.0,17,kdr|met|ret,target,shrinkage_lda
+BRD-K52911425,0.6466666666666667,1.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,shrinkage_lda
+BRD-K53414658,0.40116484958314425,0.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,shrinkage_lda
+BRD-K57080016,0.5833333333333334,1.0,1.0,2,map2k1,target,shrinkage_lda
+BRD-K57169635,0.36761800321122357,1.0,1.0,8,egfr|erbb2|erbb4,target,shrinkage_lda
+BRD-K59317601,0.7679093567251462,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,shrinkage_lda
+BRD-K60866521,0.5726190476190476,0.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,shrinkage_lda
+BRD-K64800655,0.4331649831649831,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,shrinkage_lda
+BRD-K66538826,0.6788808903426499,1.0,1.0,15,kit|met,target,shrinkage_lda
+BRD-K67868012,0.9444444444444445,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,shrinkage_lda
+BRD-K68065987,0.03152709359605911,0.0,0.0,2,akt1,target,shrinkage_lda
+BRD-K70401845,0.10287313965352343,0.0,0.0,7,egfr,target,shrinkage_lda
+BRD-K70511574,0.02857142857142857,0.0,0.0,1,plk1,target,shrinkage_lda
+BRD-K71035033,0.6434149184149184,1.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,shrinkage_lda
+BRD-K74065929,0.04,0.0,0.0,1,mapk11,target,shrinkage_lda
+BRD-K74514084,0.5405379871246744,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,shrinkage_lda
+BRD-K76908866,0.3061904761904761,0.0,1.0,5,erbb2,target,shrinkage_lda
+BRD-K77625799,0.46128564620957146,1.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,shrinkage_lda
+BRD-K77908580,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,shrinkage_lda
+BRD-K79090631,0.47464607464607467,0.0,1.0,5,cdk1|cdk2,target,shrinkage_lda
+BRD-K79404599,0.027045300878972278,0.0,0.0,2,akt1,target,shrinkage_lda
+BRD-K80700417,0.15694444444444441,0.0,1.0,4,flt3,target,shrinkage_lda
+BRD-K81528515,0.6314773137365319,1.0,1.0,11,abl1|kit,target,shrinkage_lda
+BRD-K82928847,1.0,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,shrinkage_lda
+BRD-K83963101,0.08333333333333333,0.0,0.0,2,aurka,target,shrinkage_lda
+BRD-K85606544,0.5529943452861221,1.0,1.0,17,egfr|erbb2|kdr,target,shrinkage_lda
+BRD-K87142802,0.18333333333333335,0.0,1.0,2,parp1|parp2,target,shrinkage_lda
+BRD-K92428232,0.024390243902439025,0.0,0.0,1,plk1,target,shrinkage_lda
+BRD-K93123848,0.17698412698412697,0.0,1.0,4,braf,target,shrinkage_lda
+BRD-K93918653,0.630986682092534,1.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,shrinkage_lda
+BRD-K99749624,0.2930945239563365,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,shrinkage_lda
+BRD-K99964838,0.2817607000459696,1.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,shrinkage_lda
+BRD-K02113016,0.043560606060606064,0.0,0.0,2,parp1|parp2,target,filzen_continuous
+BRD-K02123250,0.11564300822171887,0.0,0.0,6,met,target,filzen_continuous
+BRD-K03449891,0.26792339879577937,0.0,1.0,15,flt1|flt4|kdr|met,target,filzen_continuous
+BRD-K05804044,0.11225403558383411,0.0,1.0,4,braf|raf1,target,filzen_continuous
+BRD-K07691486,0.047033511624659415,0.0,0.0,5,cdk2|cdk9,target,filzen_continuous
+BRD-K08799216,0.2565501824229487,1.0,1.0,7,egfr,target,filzen_continuous
+BRD-K09951645,0.10754870129870131,0.0,0.0,4,braf|raf1,target,filzen_continuous
+BRD-K11153516,0.03707482993197279,0.0,0.0,2,parp1,target,filzen_continuous
+BRD-K12184916,0.32789298515104964,0.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,filzen_continuous
+BRD-K13390322,0.5254753183324612,1.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,filzen_continuous
+BRD-K13662825,0.48749999999999993,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,filzen_continuous
+BRD-K16730910,0.41375353030380757,0.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,filzen_continuous
+BRD-K17743125,0.5833333333333333,0.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,filzen_continuous
+BRD-K19477839,0.2841912377144761,0.0,1.0,6,met,target,filzen_continuous
+BRD-K19687926,0.22117315474293414,1.0,1.0,8,egfr|erbb2,target,filzen_continuous
+BRD-K20285085,0.12951728074678895,0.0,0.0,6,ret,target,filzen_continuous
+BRD-K21718444,0.20849243485272898,0.0,1.0,10,abl1|aurka|aurkb|flt3,target,filzen_continuous
+BRD-K23984367,0.3924971448245086,0.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,filzen_continuous
+BRD-K28392481,0.24113452237110466,0.0,0.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,filzen_continuous
+BRD-K33379087,0.16020905490959936,0.0,0.0,6,met,target,filzen_continuous
+BRD-K36740062,0.05846153846153847,0.0,0.0,2,aurka|aurkb,target,filzen_continuous
+BRD-K40175214,0.17456617456617454,0.0,0.0,3,mtor,target,filzen_continuous
+BRD-K40738845,0.13811379252555722,0.0,0.0,6,met,target,filzen_continuous
+BRD-K42191735,0.4952182163187856,1.0,1.0,5,pik3ca|pik3cg,target,filzen_continuous
+BRD-K42805893,0.21991881521498247,0.0,1.0,7,egfr,target,filzen_continuous
+BRD-K49075727,0.2687530793300024,0.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,filzen_continuous
+BRD-K49328571,0.2273222310291148,0.0,0.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,filzen_continuous
+BRD-K49865102,0.05213903743315508,0.0,0.0,2,map2k1,target,filzen_continuous
+BRD-K50168500,0.22308382031911442,0.0,1.0,10,akt1|egfr|erbb2|erbb4,target,filzen_continuous
+BRD-K51313569,0.10714285714285714,0.0,0.0,2,cdk4|cdk6,target,filzen_continuous
+BRD-K51544265,0.3684688686098517,1.0,1.0,17,kdr|met|ret,target,filzen_continuous
+BRD-K52911425,0.15807974705033528,0.0,0.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_continuous
+BRD-K53414658,0.304384040267535,0.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,filzen_continuous
+BRD-K57080016,0.05277777777777778,0.0,0.0,2,map2k1,target,filzen_continuous
+BRD-K57169635,0.22416823065800048,0.0,1.0,8,egfr|erbb2|erbb4,target,filzen_continuous
+BRD-K59317601,0.44102934102934094,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,filzen_continuous
+BRD-K60866521,0.08146799437122018,0.0,0.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_continuous
+BRD-K64800655,0.22877122877122877,0.0,0.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,filzen_continuous
+BRD-K66538826,0.28988715824006034,0.0,1.0,15,kit|met,target,filzen_continuous
+BRD-K67868012,0.3765467171717171,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_continuous
+BRD-K68065987,0.11886792452830189,0.0,1.0,2,akt1,target,filzen_continuous
+BRD-K70401845,0.15894387598759366,0.0,1.0,7,egfr,target,filzen_continuous
+BRD-K70511574,0.02702702702702703,0.0,0.0,1,plk1,target,filzen_continuous
+BRD-K71035033,0.1798554114325132,0.0,0.0,11,fgfr3|kit|pdgfra|pdgfrb,target,filzen_continuous
+BRD-K74065929,0.058823529411764705,0.0,0.0,1,mapk11,target,filzen_continuous
+BRD-K74514084,0.26003502913125165,0.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,filzen_continuous
+BRD-K76908866,0.2691994026489971,1.0,1.0,5,erbb2,target,filzen_continuous
+BRD-K77625799,0.40807218320309374,1.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,filzen_continuous
+BRD-K77908580,0.7,1.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,filzen_continuous
+BRD-K79090631,0.28230343300110744,0.0,1.0,5,cdk1|cdk2,target,filzen_continuous
+BRD-K79404599,0.028722600151171576,0.0,0.0,2,akt1,target,filzen_continuous
+BRD-K80700417,0.10357142857142858,0.0,0.0,4,flt3,target,filzen_continuous
+BRD-K81528515,0.18615261611589054,0.0,0.0,11,abl1|kit,target,filzen_continuous
+BRD-K82928847,0.5,0.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,filzen_continuous
+BRD-K83963101,0.02832415420928403,0.0,0.0,2,aurka,target,filzen_continuous
+BRD-K85606544,0.42280873129295105,0.0,1.0,17,egfr|erbb2|kdr,target,filzen_continuous
+BRD-K87142802,0.14627659574468085,0.0,1.0,2,parp1|parp2,target,filzen_continuous
+BRD-K92428232,0.037037037037037035,0.0,0.0,1,plk1,target,filzen_continuous
+BRD-K93123848,0.07434419580504882,0.0,0.0,4,braf,target,filzen_continuous
+BRD-K93918653,0.3935389714954932,1.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,filzen_continuous
+BRD-K99749624,0.2637438134085015,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,filzen_continuous
+BRD-K99964838,0.17131761539501392,0.0,0.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,filzen_continuous
+BRD-K02113016,0.078125,0.0,0.0,2,parp1|parp2,target,filzen_binary
+BRD-K02123250,0.06597521690710133,0.0,0.0,6,met,target,filzen_binary
+BRD-K03449891,0.268957267903774,0.0,1.0,15,flt1|flt4|kdr|met,target,filzen_binary
+BRD-K05804044,0.08714387464387464,0.0,1.0,4,braf|raf1,target,filzen_binary
+BRD-K07691486,0.274933441528839,1.0,1.0,5,cdk2|cdk9,target,filzen_binary
+BRD-K08799216,0.18832581155982786,0.0,1.0,7,egfr,target,filzen_binary
+BRD-K09951645,0.08625201288244766,0.0,1.0,4,braf|raf1,target,filzen_binary
+BRD-K11153516,0.0763888888888889,0.0,0.0,2,parp1,target,filzen_binary
+BRD-K12184916,0.0886456596885724,0.0,0.0,6,mtor|pik3ca|pik3cd|pik3cg,target,filzen_binary
+BRD-K13390322,0.2833189184977404,1.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,filzen_binary
+BRD-K13662825,0.46757193250881884,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,filzen_binary
+BRD-K16730910,0.46169790177121767,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,filzen_binary
+BRD-K17743125,0.5,0.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,filzen_binary
+BRD-K19477839,0.0635121627199092,0.0,0.0,6,met,target,filzen_binary
+BRD-K19687926,0.13907626702213371,0.0,0.0,8,egfr|erbb2,target,filzen_binary
+BRD-K20285085,0.24349236241891611,0.0,1.0,6,ret,target,filzen_binary
+BRD-K21718444,0.43170509400579055,1.0,1.0,10,abl1|aurka|aurkb|flt3,target,filzen_binary
+BRD-K23984367,0.3747927674993347,0.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,filzen_binary
+BRD-K28392481,0.24193739494631214,0.0,1.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,filzen_binary
+BRD-K33379087,0.06238755633214491,0.0,0.0,6,met,target,filzen_binary
+BRD-K36740062,0.05334281650071124,0.0,0.0,2,aurka|aurkb,target,filzen_binary
+BRD-K40175214,0.04998008761449622,0.0,0.0,3,mtor,target,filzen_binary
+BRD-K40738845,0.0617748112341057,0.0,0.0,6,met,target,filzen_binary
+BRD-K42191735,0.07673743222130319,0.0,0.0,5,pik3ca|pik3cg,target,filzen_binary
+BRD-K42805893,0.17982241019928366,0.0,1.0,7,egfr,target,filzen_binary
+BRD-K49075727,0.26691716706620394,0.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,filzen_binary
+BRD-K49328571,0.3744344631704,1.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,filzen_binary
+BRD-K49865102,0.5303030303030303,1.0,1.0,2,map2k1,target,filzen_binary
+BRD-K50168500,0.22726991603528318,0.0,1.0,10,akt1|egfr|erbb2|erbb4,target,filzen_binary
+BRD-K51313569,0.05725806451612903,0.0,0.0,2,cdk4|cdk6,target,filzen_binary
+BRD-K51544265,0.2597420196943935,0.0,1.0,17,kdr|met|ret,target,filzen_binary
+BRD-K52911425,0.07524856096284668,0.0,0.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_binary
+BRD-K53414658,0.2983640017377261,0.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,filzen_binary
+BRD-K57080016,0.5238095238095238,1.0,1.0,2,map2k1,target,filzen_binary
+BRD-K57169635,0.22070535907723332,0.0,1.0,8,egfr|erbb2|erbb4,target,filzen_binary
+BRD-K59317601,0.07547238612509548,0.0,0.0,6,mtor|pik3ca|pik3cd|pik3cg,target,filzen_binary
+BRD-K60866521,0.07005055103084187,0.0,0.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_binary
+BRD-K64800655,0.1975934651721758,0.0,0.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,filzen_binary
+BRD-K66538826,0.20244442499309664,0.0,1.0,15,kit|met,target,filzen_binary
+BRD-K67868012,0.07799902927709886,0.0,0.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,filzen_binary
+BRD-K68065987,0.06010452961672474,0.0,0.0,2,akt1,target,filzen_binary
+BRD-K70401845,0.10583885224213423,0.0,0.0,7,egfr,target,filzen_binary
+BRD-K70511574,0.16666666666666666,0.0,0.0,1,plk1,target,filzen_binary
+BRD-K71035033,0.24455937028781738,0.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,filzen_binary
+BRD-K74065929,0.01694915254237288,0.0,0.0,1,mapk11,target,filzen_binary
+BRD-K74514084,0.2889067108311598,0.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,filzen_binary
+BRD-K76908866,0.18564122738001573,0.0,1.0,5,erbb2,target,filzen_binary
+BRD-K77625799,0.38748840466948636,1.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,filzen_binary
+BRD-K77908580,0.45,0.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,filzen_binary
+BRD-K79090631,0.46757193250881884,1.0,1.0,5,cdk1|cdk2,target,filzen_binary
+BRD-K79404599,0.04439024390243902,0.0,0.0,2,akt1,target,filzen_binary
+BRD-K80700417,0.22255449229133442,0.0,1.0,4,flt3,target,filzen_binary
+BRD-K81528515,0.3933358318188658,1.0,1.0,11,abl1|kit,target,filzen_binary
+BRD-K82928847,0.25,0.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,filzen_binary
+BRD-K83963101,0.02851851851851852,0.0,0.0,2,aurka,target,filzen_binary
+BRD-K85606544,0.3521925458627291,0.0,1.0,17,egfr|erbb2|kdr,target,filzen_binary
+BRD-K87142802,0.021825396825396824,0.0,0.0,2,parp1|parp2,target,filzen_binary
+BRD-K92428232,0.043478260869565216,0.0,0.0,1,plk1,target,filzen_binary
+BRD-K93123848,0.03940306102645032,0.0,0.0,4,braf,target,filzen_binary
+BRD-K93918653,0.25784925936469044,0.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,filzen_binary
+BRD-K99749624,0.344694542973318,0.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,filzen_binary
+BRD-K99964838,0.16494499928441655,0.0,0.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,filzen_binary
+BRD-K02113016,0.024585477415666093,0.0,0.0,2,parp1|parp2,target,ssgsea_hallmark
+BRD-K02123250,0.2858465608465609,1.0,1.0,6,met,target,ssgsea_hallmark
+BRD-K03449891,0.23582699118549616,0.0,1.0,15,flt1|flt4|kdr|met,target,ssgsea_hallmark
+BRD-K05804044,0.09569417432320658,0.0,0.0,4,braf|raf1,target,ssgsea_hallmark
+BRD-K07691486,0.12155083655083657,0.0,0.0,5,cdk2|cdk9,target,ssgsea_hallmark
+BRD-K08799216,0.4463503921632,1.0,1.0,7,egfr,target,ssgsea_hallmark
+BRD-K09951645,0.05095769681056628,0.0,0.0,4,braf|raf1,target,ssgsea_hallmark
+BRD-K11153516,0.15625,0.0,1.0,2,parp1,target,ssgsea_hallmark
+BRD-K12184916,0.9444444444444445,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,ssgsea_hallmark
+BRD-K13390322,0.39756335282651073,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9,target,ssgsea_hallmark
+BRD-K13662825,0.5211469534050179,1.0,1.0,5,cdk1|cdk2|cdk5|cdk9,target,ssgsea_hallmark
+BRD-K16730910,0.550239548137525,1.0,1.0,22,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|pdgfra|pdgfrb|raf1|ret|tek,target,ssgsea_hallmark
+BRD-K17743125,0.7,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8|hdac9,target,ssgsea_hallmark
+BRD-K19477839,0.3218046477850399,1.0,1.0,6,met,target,ssgsea_hallmark
+BRD-K19687926,0.3056963637845991,1.0,1.0,8,egfr|erbb2,target,ssgsea_hallmark
+BRD-K20285085,0.06777630478813622,0.0,0.0,6,ret,target,ssgsea_hallmark
+BRD-K21718444,0.14679279680515778,0.0,0.0,10,abl1|aurka|aurkb|flt3,target,ssgsea_hallmark
+BRD-K23984367,0.39972237232472113,1.0,1.0,21,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret,target,ssgsea_hallmark
+BRD-K28392481,0.3738546255684431,0.0,1.0,11,fgfr1|fgfr2|fgfr3|fgfr4|kdr,target,ssgsea_hallmark
+BRD-K33379087,0.06594077985440869,0.0,0.0,6,met,target,ssgsea_hallmark
+BRD-K36740062,0.09347826086956522,0.0,0.0,2,aurka|aurkb,target,ssgsea_hallmark
+BRD-K40175214,0.4777777777777777,0.0,1.0,3,mtor,target,ssgsea_hallmark
+BRD-K40738845,0.1481370864073329,0.0,1.0,6,met,target,ssgsea_hallmark
+BRD-K42191735,0.6683333333333333,0.0,1.0,5,pik3ca|pik3cg,target,ssgsea_hallmark
+BRD-K42805893,0.12740155699783032,0.0,0.0,7,egfr,target,ssgsea_hallmark
+BRD-K49075727,0.30050145609943213,0.0,1.0,13,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb,target,ssgsea_hallmark
+BRD-K49328571,0.2618727759264538,1.0,1.0,13,abl1|epha2|frk|fyn|hck|kit|lyn|pdgfrb|src,target,ssgsea_hallmark
+BRD-K49865102,0.5454545454545454,1.0,1.0,2,map2k1,target,ssgsea_hallmark
+BRD-K50168500,0.20883950937007492,0.0,0.0,10,akt1|egfr|erbb2|erbb4,target,ssgsea_hallmark
+BRD-K51313569,0.053571428571428575,0.0,0.0,2,cdk4|cdk6,target,ssgsea_hallmark
+BRD-K51544265,0.44702567956912465,1.0,1.0,17,kdr|met|ret,target,ssgsea_hallmark
+BRD-K52911425,0.49797235023041475,1.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,ssgsea_hallmark
+BRD-K53414658,0.4258084405569486,0.0,1.0,15,flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,ssgsea_hallmark
+BRD-K57080016,0.5555555555555556,1.0,1.0,2,map2k1,target,ssgsea_hallmark
+BRD-K57169635,0.37554579041648006,1.0,1.0,8,egfr|erbb2|erbb4,target,ssgsea_hallmark
+BRD-K59317601,0.8964646464646465,1.0,1.0,6,mtor|pik3ca|pik3cd|pik3cg,target,ssgsea_hallmark
+BRD-K60866521,0.885,1.0,1.0,5,pik3ca|pik3cb|pik3cd|pik3cg,target,ssgsea_hallmark
+BRD-K64800655,0.421078431372549,0.0,1.0,6,cdk1|cdk2|cdk4|cdk5|cdk9,target,ssgsea_hallmark
+BRD-K66538826,0.5857382667306564,1.0,1.0,15,kit|met,target,ssgsea_hallmark
+BRD-K67868012,0.6768978605935128,1.0,1.0,6,mtor|pik3ca|pik3cb|pik3cd|pik3cg,target,ssgsea_hallmark
+BRD-K68065987,0.030117753623188408,0.0,0.0,2,akt1,target,ssgsea_hallmark
+BRD-K70401845,0.10811762110434493,0.0,0.0,7,egfr,target,ssgsea_hallmark
+BRD-K70511574,0.07692307692307693,0.0,0.0,1,plk1,target,ssgsea_hallmark
+BRD-K71035033,0.3735757804871069,0.0,1.0,11,fgfr3|kit|pdgfra|pdgfrb,target,ssgsea_hallmark
+BRD-K74065929,0.024390243902439025,0.0,0.0,1,mapk11,target,ssgsea_hallmark
+BRD-K74514084,0.48879062360641307,1.0,1.0,15,csf1r|fgfr1|fgfr3|flt1|flt4|kdr|kit|pdgfra|pdgfrb,target,ssgsea_hallmark
+BRD-K76908866,0.46040816326530615,1.0,1.0,5,erbb2,target,ssgsea_hallmark
+BRD-K77625799,0.595706950846743,1.0,1.0,21,egfr|epha2|erbb2|erbb4|flt1|flt4|kdr|ret|src|tek,target,ssgsea_hallmark
+BRD-K77908580,0.2717391304347826,0.0,1.0,2,hdac1|hdac2|hdac3|hdac9,target,ssgsea_hallmark
+BRD-K79090631,0.3431372549019608,0.0,1.0,5,cdk1|cdk2,target,ssgsea_hallmark
+BRD-K79404599,0.02877846790890269,0.0,0.0,2,akt1,target,ssgsea_hallmark
+BRD-K80700417,0.14167230110434978,0.0,1.0,4,flt3,target,ssgsea_hallmark
+BRD-K81528515,0.4576778694980078,1.0,1.0,11,abl1|kit,target,ssgsea_hallmark
+BRD-K82928847,0.54,1.0,1.0,2,hdac1|hdac2|hdac3|hdac6|hdac8,target,ssgsea_hallmark
+BRD-K83963101,0.07179487179487179,0.0,0.0,2,aurka,target,ssgsea_hallmark
+BRD-K85606544,0.5370967741489452,1.0,1.0,17,egfr|erbb2|kdr,target,ssgsea_hallmark
+BRD-K87142802,0.12698412698412698,0.0,0.0,2,parp1|parp2,target,ssgsea_hallmark
+BRD-K92428232,0.08333333333333333,0.0,0.0,1,plk1,target,ssgsea_hallmark
+BRD-K93123848,0.23463572267920094,0.0,1.0,4,braf,target,ssgsea_hallmark
+BRD-K93918653,0.5683935286265483,1.0,1.0,15,csf1r|flt3|kit|pdgfra|pdgfrb|ret,target,ssgsea_hallmark
+BRD-K99749624,0.34158200689739027,1.0,1.0,18,csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek,target,ssgsea_hallmark
+BRD-K99964838,0.23774247212714705,0.0,1.0,12,abl1|cdk2|frk|fyn|hck|lyn|map2k1|src,target,ssgsea_hallmark

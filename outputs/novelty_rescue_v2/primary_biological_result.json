@@ -1,0 +1,18 @@
+{
+  "cohort": "GSE70138 MCF7 10 micromolar 24 hours; 81 Phase-I-unseen compounds with >=6 plates",
+  "moa_annotated_compounds": 74,
+  "target_annotated_compounds": 73,
+  "shrinkage_lda_moa_map": 0.4052388332995048,
+  "shrinkage_lda_minus_raw_map": 0.08180039209175223,
+  "paired_bootstrap_95_interval": [
+    0.02348596415702251,
+    0.13551786352683126
+  ],
+  "permutation_null_mean": 0.13353409202148533,
+  "permutation_null_95_interval": [
+    0.1085108158942113,
+    0.1658800579436184
+  ],
+  "permutation_pvalue_one_sided": 0.0004997501249375312,
+  "primary_biological_endpoint": "PASS"
+}

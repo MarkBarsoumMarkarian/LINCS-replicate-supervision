@@ -1,0 +1,32 @@
+{
+  "target_lda_minus_raw": {
+    "eligible_queries": 62,
+    "map_difference": 0.08325291807437082,
+    "bootstrap_95_interval": [
+      0.046879502558464785,
+      0.12147968418243761
+    ],
+    "bootstrap_draws": 2000
+  },
+  "cross_context_global_compound_cluster": {
+    "unique_compounds_across_contexts": 158,
+    "macro_map_difference": 0.06551211356329141,
+    "global_compound_cluster_bootstrap_95_interval": [
+      0.04441385871251421,
+      0.08878293945991725
+    ],
+    "bootstrap_draws": 2000,
+    "interpretation": "sensitivity preserving a compound as one cluster across cell lines"
+  },
+  "heldout_spectrum": {
+    "training_compounds": 100,
+    "heldout_compounds": 68,
+    "training_effective_dimension": 27.094516233514067,
+    "heldout_effective_dimension": 24.308473429239324,
+    "training_covariance_shrinkage": 0.011853375715733095,
+    "heldout_covariance_shrinkage": 0.023271352995888266,
+    "training_top32_mass": 0.7398047374206557,
+    "heldout_top32_mass": 0.7858661650478799,
+    "rank_note": "positive-direction counts are bounded by compounds minus one and are not interpreted as a biological finding"
+  }
+}

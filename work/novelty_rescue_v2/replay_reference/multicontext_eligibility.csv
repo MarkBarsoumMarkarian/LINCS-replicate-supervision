@@ -1,0 +1,6 @@
+cell_line,eligible_unseen_compounds,profiles,plates,minimum_plates_per_compound
+A375,70,463,90,6
+A549,102,694,23,6
+HA1E,78,506,96,6
+HT29,77,507,96,6
+PC3,63,423,90,6

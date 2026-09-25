@@ -1,0 +1,82 @@
+pert_id,pert_iname,moa,target
+BRD-A39996500,,,
+BRD-A58280226,,,
+BRD-A61304759,,,
+BRD-K02113016,olaparib,parp inhibitor,parp1|parp2
+BRD-K02123250,JNJ-38877605,tyrosine kinase inhibitor,met
+BRD-K02708799,,,
+BRD-K03449891,foretinib,vegfr inhibitor,flt1|flt4|kdr|met
+BRD-K04887706,,,
+BRD-K05804044,AZ-628,raf inhibitor,braf|raf1
+BRD-K07691486,roscovitine,cdk inhibitor,cdk2|cdk9
+BRD-K08109215,I-BET-762,bromodomain inhibitor,brd2|brd3|brd4
+BRD-K08799216,pelitinib,egfr inhibitor,egfr
+BRD-K09132007,D-4476,tgf beta receptor inhibitor,csnk1a1|csnk1d|tgfb1
+BRD-K09951645,dabrafenib,raf inhibitor,braf|limk1|nek11|raf1|sik1
+BRD-K11153516,iniparib,parp inhibitor,parp1
+BRD-K12184916,NVP-BEZ235,mtor inhibitor|pi3k inhibitor,atr|mtor|pik3ca|pik3cd|pik3cg
+BRD-K12787259,CX-5461,rna polymerase inhibitor,
+BRD-K13390322,AT-7519,cdk inhibitor,cdk1|cdk2|cdk4|cdk5|cdk6|cdk9
+BRD-K13662825,dinaciclib,cdk inhibitor,cdk1|cdk2|cdk5|cdk9
+BRD-K16730910,regorafenib,fgfr inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,abl1|braf|ddr2|epha2|fgfr1|fgfr2|flt1|flt4|frk|kdr|kit|mapk11|ntrk1|pdgfra|pdgfrb|raf1|ret|tek
+BRD-K17743125,belinostat,hdac inhibitor,hdac1|hdac10|hdac11|hdac2|hdac3|hdac4|hdac5|hdac6|hdac7|hdac8|hdac9
+BRD-K19477839,SGX523,hepatocyte growth factor receptor inhibitor,met
+BRD-K19687926,lapatinib,egfr inhibitor,egfr|erbb2
+BRD-K20285085,R406,syk inhibitor,ret|syk
+BRD-K21718444,KW-2449,abl kinase inhibitor|aurora kinase inhibitor|flt3 inhibitor,abl1|aurka|aurkb|flt3
+BRD-K23984367,sorafenib,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|raf inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,braf|ddr2|fgfr1|flt1|flt3|flt4|kdr|kit|pdgfrb|raf1|ret
+BRD-K28392481,AZD4547,fgfr inhibitor,fgfr1|fgfr2|fgfr3|fgfr4|igf1r|kdr
+BRD-K33379087,tivantinib,tyrosine kinase inhibitor,met
+BRD-K36740062,GSK1070916,aurora kinase inhibitor,aurka|aurkb|aurkc|cyp2d6|cyp3a4
+BRD-K37687095,AZD8330,mek inhibitor,map3k1
+BRD-K40175214,torin-1,mtor inhibitor,mtor
+BRD-K40738845,BMS-777607,axl kinase inhibitor|c-met inhibitor|flt3 inhibitor|hepatocyte growth factor receptor inhibitor|macrophage migration inhibiting factor inhibitor|tyrosine kinase inhibitor,axl|mertk|met|mst1r|tyro3
+BRD-K41895714,,,
+BRD-K42191735,buparlisib,pi3k inhibitor,pik3ca|pik3cg
+BRD-K42805893,osimertinib,egfr inhibitor,egfr
+BRD-K45746021,,,
+BRD-K49075727,nintedanib,fgfr inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,fgfr1|fgfr2|fgfr3|fgfr4|flt1|flt4|kdr|pdgfra|pdgfrb
+BRD-K49328571,dasatinib,bcr-abl kinase inhibitor|ephrin inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor|tyrosine kinase inhibitor,abl1|abl2|blk|epha2|fgr|frk|fyn|hck|kit|lck|lyn|pdgfrb|src|srms|stat5b|yes1
+BRD-K49865102,PD-0325901,mek inhibitor,map2k1
+BRD-K50168500,canertinib,egfr inhibitor,akt1|egfr|erbb2|erbb4
+BRD-K51313569,palbociclib,cdk inhibitor,cdk4|cdk6
+BRD-K51544265,cabozantinib,ret tyrosine kinase inhibitor|vegfr inhibitor,kdr|met|ret
+BRD-K52911425,GDC-0941,pi3k inhibitor,pik3ca|pik3cb|pik3cd|pik3cg
+BRD-K53414658,tivozanib,vegfr inhibitor,flt1|flt4|kdr|kit|pdgfra|pdgfrb
+BRD-K53417444,OTS167,maternal embryonic leucine zipper kinase inhibitor,melk
+BRD-K54256913,MK-1775,wee1 kinase inhibitor,wee1
+BRD-K56301217,ABT-737,bcl inhibitor,bcl2|bcl2l1|bcl2l2
+BRD-K56751279,Y-39983,rho associated kinase inhibitor,rock1|rock2
+BRD-K57080016,selumetinib,mek inhibitor,map2k1
+BRD-K57169635,dacomitinib,egfr inhibitor,egfr|erbb2|erbb4
+BRD-K59317601,MLN0128,mtor inhibitor,mtor|pik3ca|pik3cd|pik3cg
+BRD-K60866521,idelalisib,pi3k inhibitor,pik3ca|pik3cb|pik3cd|pik3cg
+BRD-K64800655,PHA-793887,cdk inhibitor,cdk1|cdk2|cdk4|cdk5|cdk7|cdk9
+BRD-K66538826,amuvatinib,flt3 inhibitor|kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|rad51 inhibitor|ret tyrosine kinase inhibitor,kit|met
+BRD-K67868012,PI-103,mtor inhibitor|pi3k inhibitor,mtor|pik3ca|pik3cb|pik3cd|pik3cg|prkdc
+BRD-K68065987,MK-2206,akt inhibitor,akt1|akt2|akt3
+BRD-K70401845,erlotinib,egfr inhibitor,egfr|nr1i2
+BRD-K70511574,HMN-214,plk inhibitor,plk1
+BRD-K71035033,masitinib,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|src inhibitor,fgfr3|kit|pdgfra|pdgfrb
+BRD-K72414522,AZD5438,cdk inhibitor,kcnh2
+BRD-K74065929,doramapimod,p38 mapk inhibitor,mapk11|mapk12|mapk13|mapk14
+BRD-K74514084,pazopanib,kit inhibitor|pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,csf1r|fgf1|fgfr1|fgfr3|flt1|flt4|itk|kdr|kit|pdgfra|pdgfrb|sh2b3
+BRD-K76908866,CP-724714,egfr inhibitor|protein tyrosine kinase inhibitor,erbb2
+BRD-K77625799,vandetanib,egfr inhibitor|ret tyrosine kinase inhibitor|vegfr inhibitor,egfr|epha1|epha10|epha2|epha3|epha4|epha5|epha6|epha7|epha8|ephb1|ephb2|ephb3|ephb4|ephb6|erbb2|erbb3|erbb4|flt1|flt4|kdr|ptk6|ret|src|tek|vegfa
+BRD-K77908580,entinostat,hdac inhibitor,hdac1|hdac2|hdac3|hdac9
+BRD-K79090631,CGP-60474,cdk inhibitor,cdk1|cdk2
+BRD-K79254416,decitabine,dna methyltransferase inhibitor,dnmt1|dnmt3a
+BRD-K79404599,enzastaurin,pkc inhibitor,akt1|gsk3b|prkca|prkcb|prkcd|prkcg
+BRD-K80700417,SGI-1776,pim kinase inhibitor,flt3|pim1|pim2|pim3
+BRD-K81528515,nilotinib,abl kinase inhibitor|bcr-abl kinase inhibitor,abl1|kit
+BRD-K82928847,ACY-1215,hdac inhibitor,hdac1|hdac2|hdac3|hdac6|hdac8
+BRD-K83963101,MLN8054,aurora kinase inhibitor,aurka
+BRD-K85606544,neratinib,egfr inhibitor,egfr|erbb2|kdr
+BRD-K87142802,veliparib,parp inhibitor,parp1|parp2
+BRD-K87737963,cyt387,jak inhibitor,jak1|jak2|jak3
+BRD-K92428232,GSK461364,plk inhibitor,plk1
+BRD-K93123848,RAF265,raf inhibitor|vegfr inhibitor,braf
+BRD-K93918653,quizartinib,flt3 inhibitor,csf1r|flt3|kit|pdgfra|pdgfrb|ret
+BRD-K99545815,PF-562271,focal adhesion kinase inhibitor,ptk2|ptk2b
+BRD-K99749624,linifanib,pdgfr tyrosine kinase receptor inhibitor|vegfr inhibitor,csf1|csf1r|flt1|flt3|flt4|kdr|kit|pdgfrb|ret|tek
+BRD-K99964838,bosutinib,abl kinase inhibitor|bcr-abl kinase inhibitor|src inhibitor,abl1|bcr|camk1d|camk2g|cdk2|frk|fyn|hck|lyn|map2k1|map2k2|map3k2|map4k5|src|stk10|stk24|stk4|tnk2|txk

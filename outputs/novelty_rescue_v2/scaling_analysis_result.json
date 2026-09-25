@@ -1,0 +1,29 @@
+{
+  "evaluation_split": "unchanged Phase I validation compounds",
+  "grid_points": 20,
+  "compound_counts": [
+    20,
+    40,
+    60,
+    80,
+    100
+  ],
+  "plates_per_compound": [
+    3,
+    6,
+    9,
+    12
+  ],
+  "neural_max_epochs": 25,
+  "neural_patience": 5,
+  "neural_steps_per_epoch": 6,
+  "best_method_counts": {
+    "shrinkage_lda": 20
+  },
+  "full_grid_point": {
+    "raw_cosine": 0.08919985822038975,
+    "shrinkage_lda": 0.20431803830770126,
+    "replicate_contrastive": 0.16162032835284687,
+    "filzen_continuous": 0.05259176187866691
+  }
+}

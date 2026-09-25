@@ -1,0 +1,99 @@
+{
+  "status": "post-freeze credibility sensitivity",
+  "audit_points": [
+    [
+      20,
+      3
+    ],
+    [
+      20,
+      6
+    ],
+    [
+      20,
+      9
+    ],
+    [
+      20,
+      12
+    ],
+    [
+      100,
+      12
+    ]
+  ],
+  "main_schedule_definition": {
+    "contrastive_max_epochs": 120,
+    "contrastive_patience": 18,
+    "contrastive_steps_per_epoch": "max(12, ceiling(training profiles / 64))",
+    "contrastive_compounds_per_batch": 16,
+    "contrastive_profiles_per_compound": "up to 4; 3 at the 3-plate point",
+    "filzen_max_epochs": 80,
+    "filzen_patience": 14,
+    "filzen_steps_per_epoch": 16,
+    "filzen_pairs_per_step": "24 positive and 48 negative"
+  },
+  "lda_leads_all_audited_main_schedule_fits": true,
+  "full_100_compound_12_plate_point": {
+    "replicate_contrastive": {
+      "short_schedule_map": 0.1616203283528468,
+      "main_schedule_map": 0.16838348459718258,
+      "shrinkage_lda_map": 0.2043180383077012
+    },
+    "filzen_continuous": {
+      "short_schedule_map": 0.0525917618786669,
+      "main_schedule_map": 0.07953548372611498,
+      "shrinkage_lda_map": 0.2043180383077012
+    }
+  },
+  "all_available_plate_reference": {
+    "shrinkage_lda_validation_map": 0.2140530236066264,
+    "replicate_contrastive_validation_map": 0.1854003622729853,
+    "filzen_continuous_validation_map": 0.0805887626076852,
+    "note": "Uses all available training plates and each model's main analysis schedule."
+  },
+  "target_comparator": {
+    "comparison": "shrinkage LDA minus Hallmark ssGSEA",
+    "status": "post-freeze credibility sensitivity",
+    "eligible_queries": 62,
+    "lda_map": 0.3779667216823575,
+    "baseline_map": 0.3388241475083126,
+    "map_difference": 0.039142574174044924,
+    "bootstrap_95_interval": [
+      0.0026101735381154198,
+      0.07671323455820728
+    ],
+    "bootstrap_draws": 2000
+  },
+  "mechanism_comparator": {
+    "comparison": "shrinkage LDA minus limma-weighted cosine",
+    "status": "post-freeze credibility sensitivity",
+    "eligible_queries": 59,
+    "lda_map": 0.40523883329950466,
+    "baseline_map": 0.33200479112968306,
+    "map_difference": 0.07323404216982167,
+    "bootstrap_95_interval": [
+      0.011885231263396375,
+      0.12393667384979541
+    ],
+    "bootstrap_draws": 2000
+  },
+  "filzen_binary_tie_sensitivity": {
+    "status": "post-freeze tie-aware sensitivity",
+    "tie_policy": "expected metrics under uniform random ordering within exact cosine-score ties",
+    "validation": {
+      "profiles": 460,
+      "unique_binary_vectors": 3,
+      "mean_average_precision": 0.058699906448934705,
+      "nearest_neighbor_accuracy": 0.04793567833068287,
+      "top5_hit_rate": 0.156115937670598
+    },
+    "test": {
+      "profiles": 475,
+      "unique_binary_vectors": 3,
+      "mean_average_precision": 0.05100345557926814,
+      "nearest_neighbor_accuracy": 0.0456509174316374,
+      "top5_hit_rate": 0.1527042108485128
+    }
+  }
+}

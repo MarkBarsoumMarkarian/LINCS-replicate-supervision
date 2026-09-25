@@ -1,0 +1,13 @@
+{
+  "direct_prior": "Filzen et al. 2017; doi:10.1371/journal.pcbi.1005335",
+  "status": "faithful modern reimplementation, not exact reproduction",
+  "selection_split": "Phase I validation compounds",
+  "selection_metric": "cross-plate perturbation-identity mAP",
+  "best_epoch": 48,
+  "best_validation_map": 0.08058876260768529,
+  "test_was_not_used_for_selection": true,
+  "pair_ratio": "1 positive : 2 negative",
+  "steps_per_epoch": 16,
+  "maximum_epochs": 80,
+  "patience": 14
+}

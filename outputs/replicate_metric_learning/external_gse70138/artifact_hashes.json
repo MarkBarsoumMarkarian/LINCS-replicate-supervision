@@ -1,0 +1,12 @@
+{
+  "compound_level_improvement.csv": "1dbcb567caeebfa01bfca22eb9bb846722b0148c1e8d00b9a807efa038da6898",
+  "gene_importance.csv": "c3f588469046e49ba6fd302c1ba473d87fd052cda6d1590fb86afec4548fb375",
+  "permutation_null.csv": "19d0704fbebb75ba72ef4429960e9107353fc74bc5c5cb928f551a349b1c2411",
+  "phase1_overlap_control_metrics.csv": "5322204d63049b107ce192be10c4f96c944d7c47bedc932fa508db307dbdfd13",
+  "primary_external_metrics.csv": "1c279bf38689c16d009805787c249d37a7a9a1cd956c3ac538679f200821c20d",
+  "primary_external_query_results.csv": "770192b75cd4bc6dda4b05f82a132cf44506d7a62ac200a1519d0eb658049ef3",
+  "replicate_threshold_sensitivity.csv": "c931e7561b3842ab530f8df85af5302e6e2860c1859893bad61d1fa4aa3070af",
+  "secondary_3h_metrics.csv": "d1326a8288f1fd5a6487fceece1ade6e01bb8f90956dc5a09a34602bc13d85d7",
+  "top_gene_hallmark_enrichment.csv": "98031ed5303cc323698fc5ae7e770bcb99bfb6383e22fe770b9856e159987665",
+  "external_validation_result.json": "5195d141d5d3618d7cc623ab02335712b1d8a959709025356eb4e29bdc7a4213"
+}

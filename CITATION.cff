@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite the accompanying manuscript and archived release."
+title: "LINCS replicate supervision benchmark"
+type: software
+version: 1.0.0
+date-released: 2026-09-25
+authors:
+  - family-names: "Markarian"
+    given-names: "Mark Barsoum"
+    orcid: "https://orcid.org/0009-0006-1240-9534"
+repository-code: "https://github.com/MarkBarsoumMarkarian/LINCS-replicate-supervision"
+url: "https://github.com/MarkBarsoumMarkarian/LINCS-replicate-supervision"
+license: MIT
+keywords:
+  - LINCS
+  - L1000
+  - perturbational transcriptomics
+  - replicate supervision
+  - shrinkage linear discriminant analysis
+  - metric learning
+  - mechanism of action
+preferred-citation:
+  type: article
+  title: "Shrinkage linear replicate supervision recovers perturbation identity and pharmacological relationships across LINCS contexts"
+  authors:
+    - family-names: "Markarian"
+      given-names: "Mark Barsoum"
+      orcid: "https://orcid.org/0009-0006-1240-9534"
+  year: 2026
